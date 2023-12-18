@@ -6,7 +6,7 @@ A series of Modular BG3 Mods to allow people to pick which aspects of OneDnD the
 
 ---
 
-### [OneDnd UA7 Warlock Patron Spells](https://www.nexusmods.com/baldursgate3/mods/5203)
+### [Warlock Patron Spells](https://www.nexusmods.com/baldursgate3/mods/5203)
 
 This mod uses the Compatibility Framework to add to the Warlock Spell Lists.
 
