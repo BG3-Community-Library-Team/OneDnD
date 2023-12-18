@@ -28,7 +28,7 @@ The supported subclasses are:
 
 ## Related
 
-### [Example SpellLists - Warlock OneDnd UA7 Spell List Additions](https://www.nexusmods.com/baldursgate3/mods/3942)
+### [Warlock Spell List Additions](https://www.nexusmods.com/baldursgate3/mods/3942)
 
 This mod uses the Compatibility Framework to add to the Warlock Spell Lists.
 
@@ -50,7 +50,7 @@ The supported subclasses are:
 
 ---
 
-### [Example Boosts - Monk OneDnD UA8 Weapon Proficiency Additions](https://www.nexusmods.com/baldursgate3/mods/4720)
+### [Monk Weapon Proficiency Additions](https://www.nexusmods.com/baldursgate3/mods/4720)
 
 This mod uses the Compatibility Framework to add to the Monk starting weapon proficiencies.
 
