@@ -41,13 +41,13 @@
                 </node>
                 <node id="DefaultValue">
                     <attribute id="Comment" type="LSString" value="Hexblade"/>
-                    <attribute id="Add" type="LSString" value="Target_Hex;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_CauseFear;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt"/>
+                    <attribute id="Add" type="LSString" value="Target_Hex;Shout_ExpeditiousRetreat;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_CauseFear;Shout_HellishRebuke_WarlockMI;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="TableUUID" type="guid" value="54b55960-4113-46ae-9209-d1213b38aab3"/>
                     <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-df5c-0601-c01200000002"/>
                 </node>
                 <node id="DefaultValue">
-                    <attribute id="Comment" type="LSString" value="Undead"/>
+                    <attribute id="Comment" type="LSString" value="Undead (Cyber)"/>
                     <attribute id="Add" type="LSString" value="Target_Hex;Target_UnseenServant;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_CauseFear;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="TableUUID" type="guid" value="2a455634-7418-48b4-862f-45e8ae5564b1"/>
@@ -66,6 +66,21 @@
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="TableUUID" type="guid" value="7e286cc0-c44e-4fce-a65d-fa94cb52222b"/>
                     <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-df5c-0901-c01200000002"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Comment" type="LSString" value="Undead (Veenab)"/>
+                    <attribute id="Add" type="LSString" value="Target_Hex;Target_UnseenServant;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_CauseFear;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="96a23922-85bd-4647-8f7c-d1ac4bc4327a"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-df5c-1201-c01200000002"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Comment" type="LSString" value="DarkHunger"/>
+                    <attribute id="Add" type="LSString" value="Target_Hex;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Projectile_WitchBolt;Target_CharmPerson;Target_CauseFear;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_ProtectionFromEvilAndGood;Target_UnseenServant"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="DarkHunger"/>
+                    <attribute id="TableUUID" type="guid" value="a18d194f-3bb5-41a9-ad00-85bc3ff7998d"/>
+                    <attribute id="UUID" type="guid" value="54d50b66-c746-4278-a057-9815db59b67b"/>
                 </node>
             </children>
         </node>
