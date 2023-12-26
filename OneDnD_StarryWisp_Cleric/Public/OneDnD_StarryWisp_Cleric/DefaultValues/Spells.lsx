@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="CL_Projectile_OneDnD_StarryWisp_SHV;Target_Guidance;Target_Resistance;Target_SacredFlame;Shout_Thaumaturgy"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="64474b62-b4f5-46b3-b94a-c676c6da3116"/>
+                    <attribute id="UUID" type="guid" value="815c9bd6-538a-4460-8b9e-c94384a438ed"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

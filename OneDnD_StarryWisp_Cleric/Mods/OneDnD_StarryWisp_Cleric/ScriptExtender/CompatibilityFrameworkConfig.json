@@ -1,0 +1,7 @@
+{   "FileVersion": 1,
+    "Lists": [ {
+            "Action": "Insert",
+            "UUIDs": [ "2f43a103-5bf1-4534-b14f-663decc0c525", "42acd9d3-3b44-4d08-a061-3fd2f69aa4bf" ],
+            "Type": "SpellList",
+            "Items": [ "CL_Projectile_OneDnD_StarryWisp_SHV" ]
+}   ]   }
