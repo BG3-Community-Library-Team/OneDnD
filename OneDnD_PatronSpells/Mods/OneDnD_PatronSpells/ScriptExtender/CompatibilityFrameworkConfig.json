@@ -385,6 +385,7 @@
       "UUID": "cbdbfb62-098f-4629-8036-edfb5f216726",
       "Selectors": [
         {
+          "modGuid": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
@@ -469,6 +470,7 @@
       "UUID": "9955647b-c417-4364-a8b0-980776325eaa",
       "Selectors": [
         {
+          "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
@@ -553,6 +555,7 @@
       "UUID": "9ec95049-df25-40eb-b13c-2497ca0136cb",
       "Selectors": [
         {
+          "modGuid": "2e686664-8fbb-4e08-9ec2-3eea5d0300ab",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
@@ -637,6 +640,7 @@
       "UUID": "5f51bbf3-195c-49c6-a148-d9929f5ebd12",
       "Selectors": [
         {
+          "modGuid": "9d5e409f-5c4e-4c14-b1f3-6fd47c9359bf",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
