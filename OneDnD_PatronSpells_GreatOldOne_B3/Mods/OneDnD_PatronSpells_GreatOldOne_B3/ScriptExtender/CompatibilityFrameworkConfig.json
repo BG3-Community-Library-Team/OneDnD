@@ -1,0 +1,28 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "GreatOldOne Level 5",
+      "UUID": "2d1019f4-9315-429a-b89e-125c43562e2c",
+      "Selectors": [
+        {
+          "modGuid": "c1cfc0d3-1dad-0000-d4b3-c01200000002",
+          "Action": "Remove",
+          "Function": "AddSpells",
+          "UUID": "c1cfc0d3-1dad-1157-0403-c01200000002"
+        },
+        {
+          "modGuid": "c1cfc0d3-1dad-0000-d4b3-c01200000002",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-d4b3-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+ ]
+}

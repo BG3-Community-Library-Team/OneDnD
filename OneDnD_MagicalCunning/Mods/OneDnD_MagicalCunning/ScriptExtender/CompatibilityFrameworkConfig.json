@@ -1,0 +1,16 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Warlock Level 2",
+      "UUID": "4de835bb-b7d0-47d8-aaea-596b4204a32a",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_MagicalCunning"]
+        }
+      ]
+    }    
+  ]
+}

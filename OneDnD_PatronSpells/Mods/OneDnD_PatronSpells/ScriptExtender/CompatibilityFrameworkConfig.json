@@ -257,10 +257,22 @@
       "UUID": "b7a111c9-e398-4f99-9759-b19a993d97a2",
       "Selectors": [
         {
+          "modGuid": "9bf0dff3-59b9-4cdb-9003-dede17813444",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
             "Guid": "c1cfc0d3-1dad-1157-0501-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        },
+        {
+          "modGuid": "1d7bb32c-396d-11ee-be56-0242ac120002",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-a501-c01200000002",
             "SelectorId":  "CL_OneDnD_PatronSpells",
             "PrepareType": "AlwaysPrepared",
             "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
@@ -719,8 +731,7 @@
           }
         }
       ]
-    },
-        
+    },    
     {
       "Comment": "Undead (Veenab) Level 1",
       "UUID": "5f6c09b7-e33c-47b6-8ac1-d880d7419dcd",

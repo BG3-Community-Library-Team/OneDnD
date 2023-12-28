@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Archfey SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_FaerieFire;Target_Sleep"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0201-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Archfey SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CalmEmotions;Target_PhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0202-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Archfey OneDnD SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_CalmEmotions;Target_PhantasmalForce;Target_MistyStep"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d202-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Archfey SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Blink;Target_PlantGrowth"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0203-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Archfey SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominateBeast;Target_Invisibility_Greater"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0204-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Archfey SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominatePerson;Target_Seeming"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0205-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands;Target_Command_Container"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0301-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blindness;Projectile_ScorchingRay"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0302-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Target_StinkingCloud"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0303-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FireShield;Wall_WallOfFire"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0304-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Target_FlameStrike"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0305-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend OneDnD SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominatePerson;Target_InsectPlague"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d3c5-c01200000002"/>
+                </node>                
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend OneDnD-A SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Target_InsectPlague"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d3a5-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend OneDnD-B SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_InsectPlague;Target_FlameStrike"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d3b5-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Fiend OneDnD-C SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominatePerson;Target_InsectPlague"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d3c5-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_DissonantWhispers;Target_HideousLaughter"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0401-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_DetectThoughts;Target_PhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0402-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_BestowCurse;Target_Slow"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0403-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO OneDnD-A SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_BestowCurse;Target_HungerOfHadar"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d4a3-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO OneDnD-B SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_HungerOfHadar;Target_Slow"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d4b3-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominateBeast;Target_BlackTentacles"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0404-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO OneDnD SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_Confusion;Target_BlackTentacles"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d404-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_DominatePerson;Throw_Telekinesis"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0405-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron GOO OneDnd SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_SynapticStatic;Throw_Telekinesis"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-d405-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Projectile_GuidingBolt"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0501-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) Alt SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds;Projectile_GuidingBolt"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-a501-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlamingSphere;Target_LesserRestoration"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0502-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) Alt SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_LesserRestoration;Target_Moonbeam"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-a502-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_Daylight_Container;Teleportation_Revivify"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0503-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) Alt SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_Revivify;Shout_SpiritGuardians"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-a503-c01200000002"/>
+                </node>                
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_GuardianOfFaith;Wall_WallOfFire"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0504-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) Alt SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_GuardianOfFaith;Wall_WallOfFire"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-a504-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlameStrike;Target_GreaterRestoration"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0505-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Celestial (FluffyDragon24) Alt SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlameStrike;Target_CureWounds_Mass"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-a505-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Hexblade (Feriat111) SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Warlock;Target_Smite_Wrathful"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0601-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Hexblade (Feriat111) SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Blur;Target_Smite_Branding_Container"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0602-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Hexblade (Feriat111) SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Blink;Target_ElementalWeapon"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0603-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Hexblade (Feriat111) SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalKiller;Target_StaggeringSmite"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0604-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Hexblade (Feriat111) SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Smite_Banishing_Container;Zone_ConeOfCold"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0605-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Undead (CyberSpektre) SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_Bane;Shout_FalseLife"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0701-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Undead (CyberSpektre) SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blindness;Target_PhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0702-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Undead (CyberSpektre) SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="WarlockUndead_Target_PhantomSteed;Target_SpeakWithDead"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0703-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Undead (CyberSpektre) SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathWard;Target_Invisibility_Greater"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0704-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Patron Undead (CyberSpektre) SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Target_Contagion"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0705-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DreadOverlord Patron SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_InflictWounds;Target_FogCloud"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0801-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DreadOverlord Patron SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blindness;Target_PhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0802-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DreadOverlord Patron SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_FeignDeath;Shout_SpiritGuardians"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0803-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DreadOverlord Patron SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathWard;Target_PhantasmalKiller"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0804-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DreadOverlord Patron SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;Target_Contagion"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0805-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock RavenQueen (GladoffelLp) Patron SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FalseLife;Target_Sanctuary"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0901-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock RavenQueen (GladoffelLp) Patron SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Silence;Target_SpiritualWeapon"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0902-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock RavenQueen (GladoffelLp) Patron SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_FeignDeath;Target_SpeakWithDead"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0903-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock RavenQueen (GladoffelLp) Patron SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathWard;Target_IceStorm"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0904-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock RavenQueen (GladoffelLp) Patron SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Zone_ConeOfCold;Shout_DispelEvilAndGood"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-0905-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Undead (Veenab) Patron SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_Bane;Shout_FalseLife"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1201-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Undead (Veenab) Patron SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blindness;Target_PhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1202-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Undead (Veenab) Patron SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="UW_Target_PhantomSteed;Target_BestowCurse"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1203-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Undead (Veenab) Patron SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathWard;Target_Invisibility_Greater"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1204-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock Undead (Veenab) Patron SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_Cloudkill;UW_Enervate"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1205-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DarkHunger (Veenab) Patron SLevel 1"/>
+                    <attribute id="Spells" type="LSString" value="DHP_MuculentTentacles;DHP_ChillingTentacles"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1301-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DarkHunger (Veenab) Patron SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalForce;DHP_DevouringVoid"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1302-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DarkHunger (Veenab) Patron SLevel 3"/>
+                    <attribute id="Spells" type="LSString" value="DHP_MawOfAcamar;DHP_DeadStarBreath"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1303-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DarkHunger (Veenab) Patron SLevel 4"/>
+                    <attribute id="Spells" type="LSString" value="DHP_AcamarGrasp;DHP_BroodOfHadar"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1304-c01200000002"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Warlock DarkHunger (Veenab) Patron SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="DHP_Enervate;DHP_FrozenTomb"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-1157-1305-c01200000002"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

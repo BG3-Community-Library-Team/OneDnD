@@ -1,0 +1,28 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Fiend Level 9",
+      "UUID": "ea185872-5946-4dd6-9f9f-e75bc6750f61",
+      "Selectors": [
+        {
+          "modGuid": "c1cfc0d3-1dad-0000-d3b5-c01200000002",
+          "Action": "Remove",
+          "Function": "AddSpells",
+          "UUID": "c1cfc0d3-1dad-1157-0305-c01200000002"
+        },
+        {
+          "modGuid": "c1cfc0d3-1dad-0000-d3b5-c01200000002",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-d3b5-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+ ]
+}
