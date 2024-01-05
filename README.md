@@ -8,7 +8,7 @@ A series of Modular BG3 Mods to allow people to pick which aspects of OneDnD the
 
 ---
 
-### [Warlock Patron Spells](Class_Warlock/PatronSpells/README.md)
+### [Warlock Patron Spells](Class_Warlock/PatronSpells/)
 
 This mod uses the Compatibility Framework to add the Patron 'Expanded Spells' you have as always prepared.
 
