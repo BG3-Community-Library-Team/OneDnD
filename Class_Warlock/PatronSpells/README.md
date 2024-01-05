@@ -1,7 +1,31 @@
 # Warlock Patron Spells
 
 [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/BG3-OneDnD-Modules/ua7.w.ps.1.1.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/commit/)  
-[Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.w.ps.1.1.0.0)
+
+### Downloads
+
+- [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.w.ps.1.1.0.0)
+- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
+
+### Requirements
+
+- [BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library)
+- [BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
+
+## Support Subclasses
+
+> *Permission has been granted by the respective mod authors to include them in these mods.*
+
+- Archfey
+- Fiend
+- Great Old One
+- [Celestial](https://www.nexusmods.com/baldursgate3/mods/1567)
+- [Hexblade](https://www.nexusmods.com/baldursgate3/mods/1100)
+- [Undead (CyberSpektre)](https://www.nexusmods.com/baldursgate3/mods/3045)
+- [DreadOverlord](https://www.nexusmods.com/baldursgate3/mods/394)
+- [Raven Queen](https://www.nexusmods.com/baldursgate3/mods/1895)
+- [Undead (Veenab)](https://www.nexusmods.com/baldursgate3/mods/2612)
+- [DarkHunger](https://www.nexusmods.com/baldursgate3/mods/5116)
 
 ---
 
@@ -15,8 +39,6 @@
 > |5|3|
 > |7|4|
 > |9|5|
-Spells can be found [below](#SpellLists).
-
 
 ### Archfey
 
@@ -100,34 +122,6 @@ Spells can be found [below](#SpellLists).
 |                                                                                     |        5         |        3         | Maw Of Acamar      |     Dead Star Breath |            |
 |                                                                                     |        7         |        4         | Acamar Grasp       |       Brood Of Hadar |            |
 |                                                                                     |        9         |        5         | Enervate           |          Frozen Tomb |            |
-
----
-
-
-
-### Downloads
-
-- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
-
-## Requirements
-
-- [BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library)
-- [BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
-
-## Support Subclasses
-
-> *Permission has been granted by the respective mod authors to include them in these mods.*
-
-- Archfey
-- Fiend
-- |
-- [Celestial](https://www.nexusmods.com/baldursgate3/mods/1567)
-- [Hexblade](https://www.nexusmods.com/baldursgate3/mods/1100)
-- [Undead (CyberSpektre)](https://www.nexusmods.com/baldursgate3/mods/3045)
-- [DreadOverlord](https://www.nexusmods.com/baldursgate3/mods/394)
-- [Raven Queen](https://www.nexusmods.com/baldursgate3/mods/1895)
-- [Undead (Veenab)](https://www.nexusmods.com/baldursgate3/mods/2612)
-- [DarkHunger](https://www.nexusmods.com/baldursgate3/mods/5116)
 
 ---
 

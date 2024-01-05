@@ -1,10 +1,18 @@
 # Starry Wisp Cantrip
 
 [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/BG3-OneDnD-Modules/ua8.cantrip.sw.1.0.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/commit/)  
-[Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua8.cantrip.sw.1.0.0.0)
+
+## Downloads
+- [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua8.cantrip.sw.1.0.0.0)
+- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5355)
+
+## Requirements
+
+- [BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library)
+- [BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
+- [Shivero's VFX Library](https://www.nexusmods.com/baldursgate3/mods/3888)
 
 ---
-
 
 > [Inspired by OneDnD Player's Handbook Playtest 8](https://www.dndbeyond.com/sources/ua/ph-playtest-8)  
 > ## STARRY WISP  
@@ -38,17 +46,6 @@ Status applied to target on damage until end of next turn.
 **Status Immunity:** SG_Invisible  
 **Status Group:** SG_Light  
 
----
-
-## Downloads
-
-- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5355)
-
-## Requirements
-
-- [BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library)
-- [BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
-- [Shivero's VFX Library](https://www.nexusmods.com/baldursgate3/mods/3888)
 
 ## Acknowledgements
 

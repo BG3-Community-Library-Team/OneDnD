@@ -21,8 +21,6 @@ A series of Modular BG3 Mods to allow people to pick which aspects of OneDnD the
 
 ---
 
-
-
 ## Acknowledgements
 - Larian Software, for working on Baldur's Gate 3 and bringing 5th Edition to PC.
 - The Baldur's Gate 3 Modding Community.

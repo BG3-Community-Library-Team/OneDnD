@@ -1,7 +1,16 @@
 # Warlock Magical Cunning
 
 [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/BG3-OneDnD-Modules/ua7.warlock.mc.1.0.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/commit/)  
-[Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.warlock.mc.1.0.0.0)
+
+### Downloads
+
+- [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.warlock.mc.1.0.0.0)
+- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
+
+### Requirements
+
+- [BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library)
+- [BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
 
 ---
 
@@ -21,17 +30,6 @@
 - It can only be used once per long rest.
 
 ---
-
-### Downloads
-
-- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
-
----
-
-## Requirements
-
-- [BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library)
-- [BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
 
 ## Acknowledgements
 
