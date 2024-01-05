@@ -13,37 +13,15 @@ A series of Modular BG3 Mods to allow people to pick which aspects of OneDnD the
 
 ---
 
-### [Warlock Patron Spells](Class_Warlock/PatronSpells/)
-
-> [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5525)
-
-### [Warlock Magical Cunning](Class_Warlock/MagicalCunning/)
-
-> [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
-
-### [Starry Wisp Cantrip](Spells_Cantrip/StarryWisp/)
-
-> [NexusMods](https://www.nexusmods.com/baldursgate3/mods/5355)
+- ### [Warlock Patron Spells](Class_Warlock/PatronSpells/)
+- ### [Warlock Magical Cunning](Class_Warlock/MagicalCunning/)
+- ### [Starry Wisp Cantrip](Spells_Cantrip/StarryWisp/)
 
 ## Related
 
-### [Warlock Spell List Additions](https://github.com/BG3-Community-Library-Team/CF-Example-Mods)
+- ### [Warlock Spell List Additions](https://github.com/BG3-Community-Library-Team/CF-Example-Mods)
+- ### [Monk Weapon Proficiency Additions](https://github.com/BG3-Community-Library-Team/CF-Example-Mods)
 
-This mod uses the Compatibility Framework to add to the Warlock Spell Lists.
-
-Level 1 Spells - Bane, Detect Magic (Requires 5E Spells) and Speak with Animals.
-
-> [NexusMods](https://www.nexusmods.com/baldursgate3/mods/3942)
-
----
-
-### [Monk Weapon Proficiency Additions](https://github.com/BG3-Community-Library-Team/CF-Example-Mods)
-
-This mod uses the Compatibility Framework to add to the Monk starting weapon proficiencies.
-
-Monks will be able to use Simple Weapons, Martial Weapons that have the Light property by adding Scimitars and Hand Crossbows.
-
-> [NexusMods](https://www.nexusmods.com/baldursgate3/mods/4720)
 ---
 
 
