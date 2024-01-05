@@ -29,7 +29,7 @@ Spells can be found [below](#SpellLists).
 |                                                                                     |        7         |        4         | Dominate Beast     | Greater Invisibility |            |
 |                                                                                     |        9         |        5         | Dominate Person    |              Seeming |            |
 | __Archfey__ <br>Alternates                                                          |                  |                  |                    |                      |            |
-| (Alt 02)                                                                            |        3         |        2         | Calm Emotions      |     Phantasmal Force | Misty Step |
+| 02                                                                                  |        3         |        2         | Calm Emotions      |     Phantasmal Force | Misty Step |
 | __Fiend__ <br>Base Game                                                             |                  |                  |                    |                      |            |
 |                                                                                     |        1         |        1         | Burning Hands      |              Command |            |
 |                                                                                     |        3         |        2         | Blindness          |        Scorching Ray |            |
@@ -37,9 +37,9 @@ Spells can be found [below](#SpellLists).
 |                                                                                     |        7         |        4         | Fire Shield        |         Wall Of Fire |            |
 |                                                                                     |        9         |        5         | Cone Of Cold       |         Flame Strike |            |
 | __Fiend__ <br>Alternates                                                            |                  |                  |                    |                      |            |
-| (Alt A5)                                                                            |        9         |        5         | Cone Of Cold       |        Insect Plague |            |
-| (Alt B5)                                                                            |        9         |        5         | Insect Plague      |         Flame Strike |            |
-| (Alt C5)                                                                            |        9         |        5         | Dominate Person    |        Insect Plague |            |
+| A5                                                                                  |        9         |        5         | Cone Of Cold       |        Insect Plague |            |
+| B5                                                                                  |        9         |        5         | Insect Plague      |         Flame Strike |            |
+| C5                                                                                  |        9         |        5         | Dominate Person    |        Insect Plague |            |
 | __Great Old One__ <br>Base Game                                                     |                  |                  |                    |                      |            |
 |                                                                                     |        1         |        1         | Dissonant Whispers |     Hideous Laughter |            |
 |                                                                                     |        3         |        2         | Detect Thoughts    |     Phantasmal Force |            |
@@ -47,21 +47,23 @@ Spells can be found [below](#SpellLists).
 |                                                                                     |        7         |        4         | Dominate Beast     |      Black Tentacles |            |
 |                                                                                     |        9         |        5         | Dominate Person    |          Telekinesis |            |
 | __Great Old One__ <br>Alternates                                                    |                  |                  |                    |                      |            |
-| (Alt A3)                                                                            |        5         |        3         | Bestow Curse       |      Hunger Of Hadar |            |
-| (Alt B3)                                                                            |        5         |        3         | Hunger Of Hadar    |                 Slow |            |
-| (Alt 04)                                                                            |        7         |        4         | Confusion          |      Black Tentacles |            |
-| (Alt A5)                                                                            |        9         |        5         | Synaptic Static    |          Telekinesis |            |
+| A3                                                                                  |        5         |        3         | Bestow Curse       |      Hunger Of Hadar |            |
+| B3                                                                                  |        5         |        3         | Hunger Of Hadar    |                 Slow |            |
+| 04                                                                                  |        7         |        4         | Confusion          |      Black Tentacles |            |
+| A5                                                                                  |        9         |        5         | Synaptic Static    |          Telekinesis |            |
+| __Additional Classes__                                                              |                  |                  |                    |                      |            |
 | __Celestial__<br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/1567)      |                  |                  |                    |                      |            |
 |                                                                                     |        1         |        1         | Cure Wounds        |         Guiding Bolt |            |
 |                                                                                     |        3         |        2         | Flaming Sphere     |   Lesser Restoration |            |
 |                                                                                     |        5         |        3         | Daylight           |             Revivify |            |
 |                                                                                     |        7         |        4         | Guardian Of Faith  |         Wall Of Fire |            |
 |                                                                                     |        9         |        5         | Flame Strike       |  Greater Restoration |            |
-| (Alt)                                                                               |        1         |        1         | Cure Wounds        |         Guiding Bolt |            |
-| (Alt)                                                                               |        3         |        2         | Lesser Restoration |             Moonbeam |            |
-| (Alt)                                                                               |        5         |        3         | Revivify           |     Spirit Guardians |            |
-| (Alt)                                                                               |        7         |        4         | Guardian Of Faith  |         Wall Of Fire |            |
-| (Alt)                                                                               |        9         |        5         | Flame Strike       |     Mass Cure Wounds |            |
+| __Celestial__<br>Alt Spell List                                                     |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Cure Wounds        |         Guiding Bolt |            |
+|                                                                                     |        3         |        2         | Lesser Restoration |             Moonbeam |            |
+|                                                                                     |        5         |        3         | Revivify           |     Spirit Guardians |            |
+|                                                                                     |        7         |        4         | Guardian Of Faith  |         Wall Of Fire |            |
+|                                                                                     |        9         |        5         | Flame Strike       |     Mass Cure Wounds |            |
 | __Hexblade__<br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/1100)       |                  |                  |                    |                      |            |
 |                                                                                     |        1         |        1         | Warlock            |       Wrathful Smite |            |
 |                                                                                     |        3         |        2         | Blur               |       Branding Smite |            |
