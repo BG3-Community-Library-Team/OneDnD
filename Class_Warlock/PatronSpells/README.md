@@ -1,10 +1,10 @@
 # Warlock Patron Spells
 
-[![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/BG3-OneDnD-Modules/ua7.w.ps.1.1.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/commit/)  
+[![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/BG3-OneDnD-Modules/ua7.warlock.ps.2.0.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/commit/)  
 
 ### Downloads
 
-- [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.w.ps.1.1.0.0)
+- [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.warlock.ps.2.0.0.0)
 - [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
 
 ### Requirements
