@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Comment" type="LSString" value="Warlock"/>
+                    <attribute id="Add" type="LSString" value="Projectile_EldritchBlast;Target_Prestidigitation;Target_Friends;Target_LightningLure;Target_Gust;Shout_Thunderclap;Target_MageHand;Target_ShapeWater;Target_MinorIllusion;Target_ChillTouch;Projectile_PoisonSpray;Target_BoomingBlade;Target_CreateBonfire;Target_Frostbite;Target_GreenFlameBlade;Target_MagicStone;Target_MindSliver;Shout_SwordBurst;Target_TollTheDead;Target_TrueStrike;Shout_BladeWard"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
+                    <attribute id="UUID" type="guid" value="6986821e-e98f-491f-ab72-18a7d47eb08b"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Comment" type="LSString" value="DarkHunger"/>
+                    <attribute id="Add" type="LSString" value="Target_Hex;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Projectile_WitchBolt;Target_CharmPerson;Target_CauseFear;Shout_ExpeditiousRetreat;Shout_HellishRebuke_WarlockMI;Target_ProtectionFromEvilAndGood;Target_UnseenServant"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="DarkHunger"/>
+                    <attribute id="TableUUID" type="guid" value="a18d194f-3bb5-41a9-ad00-85bc3ff7998d"/>
+                    <attribute id="UUID" type="guid" value="54d50b66-c746-4278-a057-9815db59b67b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,92 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "GreatOldOne Level 1",
+      "UUID": "3081d0f1-32ea-4c33-9350-f423ececc9b8",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0401-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "GreatOldOne Level 3",
+      "UUID": "e558c8bb-7b5f-4e18-8ca7-4ab167fa0857",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0402-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "GreatOldOne Level 5",
+      "UUID": "2d1019f4-9315-429a-b89e-125c43562e2c",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0403-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "GreatOldOne Level 7",
+      "UUID": "1fce5c31-b851-4e47-8dee-4fc0b5bcd1e6",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0404-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "GreatOldOne Level 9",
+      "UUID": "c8b25410-3a6e-4682-a242-5587772520c9",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0405-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}

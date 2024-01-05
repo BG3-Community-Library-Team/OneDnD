@@ -1,0 +1,97 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "DarkHunger Level 1",
+      "UUID": "fdda6d73-cc85-4790-ac04-4d71f596c888",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "modGuid": "7a57bc83-1ed2-4c7a-9e26-cd6a01f911f6",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1301-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "DarkHunger Level 3",
+      "UUID": "b85ba2ac-ce0f-4e97-b9f7-7703ba810b0c",
+      "Selectors": [
+        {
+          "modGuid": "7a57bc83-1ed2-4c7a-9e26-cd6a01f911f6",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1302-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "DarkHunger Level 5",
+      "UUID": "92d4a330-9120-4db2-84c2-b758e04ffcd4",
+      "Selectors": [
+        {
+          "modGuid": "7a57bc83-1ed2-4c7a-9e26-cd6a01f911f6",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1303-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "DarkHunger Level 7",
+      "UUID": "f1d6b664-37a1-42bb-9f97-2f6f0b2ba038",
+      "Selectors": [
+        {
+          "modGuid": "7a57bc83-1ed2-4c7a-9e26-cd6a01f911f6",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1304-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "DarkHunger Level 9",
+      "UUID": "ff72da74-6f6e-4bd9-9380-31431bcb7f87",
+      "Selectors": [
+        {
+          "modGuid": "7a57bc83-1ed2-4c7a-9e26-cd6a01f911f6",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1305-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}

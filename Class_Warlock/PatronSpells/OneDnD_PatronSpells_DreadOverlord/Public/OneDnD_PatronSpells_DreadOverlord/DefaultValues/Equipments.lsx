@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="WPN_BoneStaff_DreadOverlord;WPN_SkullFlail_DreadOverlord;WPN_Sickle_DreadOverlord"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="DreadOverlordStandardWeapons"/>
+                    <attribute id="TableUUID" type="guid" value="2c3a1819-9eee-4938-a003-1e9e8591df74"/>
+                    <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-dfe0-0801-c01200000002"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

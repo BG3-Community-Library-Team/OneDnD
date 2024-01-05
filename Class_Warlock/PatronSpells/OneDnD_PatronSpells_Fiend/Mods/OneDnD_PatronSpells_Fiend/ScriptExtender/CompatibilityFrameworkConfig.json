@@ -1,0 +1,92 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Fiend Level 1",
+      "UUID": "995c4979-50a9-49fe-b7b8-5d026e79464a",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0301-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Fiend Level 3",
+      "UUID": "428e4841-ff37-4b12-afb8-8bb26577a5c9",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0302-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Fiend Level 5",
+      "UUID": "ed8167dc-9bce-4f20-b58d-debd04742131",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0303-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Fiend Level 7",
+      "UUID": "596f0d68-3018-4946-a9d4-f1af39834b4e",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0304-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Fiend Level 9",
+      "UUID": "ea185872-5946-4dd6-9f9f-e75bc6750f61",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0305-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}

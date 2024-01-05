@@ -1,0 +1,97 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "RavenQueen Level 1",
+      "UUID": "5f51bbf3-195c-49c6-a148-d9929f5ebd12",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "modGuid": "9d5e409f-5c4e-4c14-b1f3-6fd47c9359bf",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0901-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "RavenQueen Level 3",
+      "UUID": "085632f2-cad5-427b-bfab-b17880e34a82",
+      "Selectors": [
+        {
+          "modGuid": "9d5e409f-5c4e-4c14-b1f3-6fd47c9359bf",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0902-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "RavenQueen Level 5",
+      "UUID": "d8a69597-43a7-45b1-a69d-2e4b1a016f2d",
+      "Selectors": [
+        {
+          "modGuid": "9d5e409f-5c4e-4c14-b1f3-6fd47c9359bf",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0903-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "RavenQueen Level 7",
+      "UUID": "8081330d-db28-4c8e-aff6-13d8294b5865",
+      "Selectors": [
+        {
+          "modGuid": "9d5e409f-5c4e-4c14-b1f3-6fd47c9359bf",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0904-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "RavenQueen Level 9",
+      "UUID": "ae80ef10-62a8-41fc-b2fc-7c688fc90ff1",
+      "Selectors": [
+        {
+          "modGuid": "9d5e409f-5c4e-4c14-b1f3-6fd47c9359bf",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0905-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}

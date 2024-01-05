@@ -1,0 +1,97 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Hexblade Level 1",
+      "UUID": "cbdbfb62-098f-4629-8036-edfb5f216726",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "modGuid": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0601-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Hexblade Level 3",
+      "UUID": "d14f0b8e-e464-42bb-9bda-08cb5ae38398",
+      "Selectors": [
+        {
+          "modGuid": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0602-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Hexblade Level 5",
+      "UUID": "6c2f0482-b1f7-4e2a-a5c3-5eb878db8d7c",
+      "Selectors": [
+        {
+          "modGuid": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0603-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Hexblade Level 7",
+      "UUID": "22a2d5f3-8341-48e1-8196-6b137d97b4aa",
+      "Selectors": [
+        {
+          "modGuid": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0604-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Hexblade Level 9",
+      "UUID": "1c8245c3-c727-47fb-b92e-250d14350c57",
+      "Selectors": [
+        {
+          "modGuid": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0605-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}

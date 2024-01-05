@@ -1,0 +1,97 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Undead (Veenab) Level 1",
+      "UUID": "5f6c09b7-e33c-47b6-8ac1-d880d7419dcd",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "modGuid": "d213482c-2d43-4f78-9ed4-d86f577b6017",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1201-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (Veenab) Level 3",
+      "UUID": "c4c5b8d4-671a-4923-9b85-ae0f895bd03d",
+      "Selectors": [
+        {
+          "modGuid": "d213482c-2d43-4f78-9ed4-d86f577b6017",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1202-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (Veenab) Level 5",
+      "UUID": "977e8081-0fbd-4bda-a1a4-315cbbab79ba",
+      "Selectors": [
+        {
+          "modGuid": "d213482c-2d43-4f78-9ed4-d86f577b6017",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1203-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (Veenab) Level 7",
+      "UUID": "7c9f3c08-c968-43a2-924d-1b3708813e83",
+      "Selectors": [
+        {
+          "modGuid": "d213482c-2d43-4f78-9ed4-d86f577b6017",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1204-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (Veenab) Level 9",
+      "UUID": "5e2b0989-e221-44f5-a076-01feb2529c82",
+      "Selectors": [
+        {
+          "modGuid": "d213482c-2d43-4f78-9ed4-d86f577b6017",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-1205-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}

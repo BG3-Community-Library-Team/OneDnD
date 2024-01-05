@@ -1,0 +1,97 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Undead (CyberSpektre) Level 1",
+      "UUID": "9955647b-c417-4364-a8b0-980776325eaa",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0701-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (CyberSpektre) Level 3",
+      "UUID": "de9fcf41-bf30-486f-ab94-4750e4774a4a",
+      "Selectors": [
+        {
+          "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0702-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (CyberSpektre) Level 5",
+      "UUID": "8638fe28-5f62-4ec8-8db1-fc5196da47da",
+      "Selectors": [
+        {
+          "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0703-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (CyberSpektre) Level 7",
+      "UUID": "bed05c0d-4ad3-4cc2-9655-4d71078bf017",
+      "Selectors": [
+        {
+          "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0704-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undead (CyberSpektre) Level 9",
+      "UUID": "b87b70c0-faf0-43a1-948a-f81ffd8caa7e",
+      "Selectors": [
+        {
+          "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0705-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}
