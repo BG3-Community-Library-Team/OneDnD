@@ -28,6 +28,7 @@ Spells can be found [below](#SpellLists).
 |                                        |        5         |        3         | Blink              |         Plant Growth |            |
 |                                        |        7         |        4         | Dominate Beast     | Greater Invisibility |            |
 |                                        |        9         |        5         | Dominate Person    |              Seeming |            |
+| __Archfey__ <br>Alternate              |                  |                  |                    |                      |            |
 | (Alt 02)                               |        3         |        2         | Calm Emotions      |     Phantasmal Force | Misty Step |
 | __Fiend__ <br>Base Game                |                  |                  |                    |                      |            |
 |                                        |        1         |        1         | Burning Hands      |              Command |            |
@@ -35,6 +36,7 @@ Spells can be found [below](#SpellLists).
 |                                        |        5         |        3         | Fireball           |       Stinking Cloud |            |
 |                                        |        7         |        4         | Fire Shield        |         Wall Of Fire |            |
 |                                        |        9         |        5         | Cone Of Cold       |         Flame Strike |            |
+| __Fiend__ <br>Alternate                |                  |                  |                    |                      |            |
 | (Alt A5)                               |        9         |        5         | Cone Of Cold       |        Insect Plague |            |
 | (Alt B5)                               |        9         |        5         | Insect Plague      |         Flame Strike |            |
 | (Alt C5)                               |        9         |        5         | Dominate Person    |        Insect Plague |            |
@@ -44,6 +46,7 @@ Spells can be found [below](#SpellLists).
 |                                        |        5         |        3         | Bestow Curse       |                 Slow |            |
 |                                        |        7         |        4         | Dominate Beast     |      Black Tentacles |            |
 |                                        |        9         |        5         | Dominate Person    |          Telekinesis |            |
+| __Great Old One__ <br>Alternate        |                  |                  |                    |                      |            |
 | (Alt A3)                               |        5         |        3         | Bestow Curse       |      Hunger Of Hadar |            |
 | (Alt B3)                               |        5         |        3         | Hunger Of Hadar    |                 Slow |            |
 | (Alt 04)                               |        7         |        4         | Confusion          |      Black Tentacles |            |
