@@ -20,84 +20,84 @@ Spells can be found [below](#SpellLists).
 
 ### Archfey
 
-| Class                                  | Class <br> Level | Spell <br> Level | Spells             |                      |            |
-| :------------------------------------- | :--------------: | :--------------: | :----------------- | -------------------: | ---------: |
-| __Archfey__ <br>Base Game              |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Faerie Fire        |                Sleep |            |
-|                                        |        3         |        2         | Calm Emotions      |     Phantasmal Force |            |
-|                                        |        5         |        3         | Blink              |         Plant Growth |            |
-|                                        |        7         |        4         | Dominate Beast     | Greater Invisibility |            |
-|                                        |        9         |        5         | Dominate Person    |              Seeming |            |
-| __Archfey__ <br>Alternate              |                  |                  |                    |                      |            |
-| (Alt 02)                               |        3         |        2         | Calm Emotions      |     Phantasmal Force | Misty Step |
-| __Fiend__ <br>Base Game                |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Burning Hands      |              Command |            |
-|                                        |        3         |        2         | Blindness          |        Scorching Ray |            |
-|                                        |        5         |        3         | Fireball           |       Stinking Cloud |            |
-|                                        |        7         |        4         | Fire Shield        |         Wall Of Fire |            |
-|                                        |        9         |        5         | Cone Of Cold       |         Flame Strike |            |
-| __Fiend__ <br>Alternate                |                  |                  |                    |                      |            |
-| (Alt A5)                               |        9         |        5         | Cone Of Cold       |        Insect Plague |            |
-| (Alt B5)                               |        9         |        5         | Insect Plague      |         Flame Strike |            |
-| (Alt C5)                               |        9         |        5         | Dominate Person    |        Insect Plague |            |
-| __Great Old One__ <br>Base Game        |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Dissonant Whispers |     Hideous Laughter |            |
-|                                        |        3         |        2         | Detect Thoughts    |     Phantasmal Force |            |
-|                                        |        5         |        3         | Bestow Curse       |                 Slow |            |
-|                                        |        7         |        4         | Dominate Beast     |      Black Tentacles |            |
-|                                        |        9         |        5         | Dominate Person    |          Telekinesis |            |
-| __Great Old One__ <br>Alternate        |                  |                  |                    |                      |            |
-| (Alt A3)                               |        5         |        3         | Bestow Curse       |      Hunger Of Hadar |            |
-| (Alt B3)                               |        5         |        3         | Hunger Of Hadar    |                 Slow |            |
-| (Alt 04)                               |        7         |        4         | Confusion          |      Black Tentacles |            |
-| (Alt A5)                               |        9         |        5         | Synaptic Static    |          Telekinesis |            |
-| __Celestial__<br>Fluffy                |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Cure Wounds        |         Guiding Bolt |            |
-|                                        |        3         |        2         | Flaming Sphere     |   Lesser Restoration |            |
-|                                        |        5         |        3         | Daylight           |             Revivify |            |
-|                                        |        7         |        4         | Guardian Of Faith  |         Wall Of Fire |            |
-|                                        |        9         |        5         | Flame Strike       |  Greater Restoration |            |
-| (Alt)                                  |        1         |        1         | Cure Wounds        |         Guiding Bolt |            |
-| (Alt)                                  |        3         |        2         | Lesser Restoration |             Moonbeam |            |
-| (Alt)                                  |        5         |        3         | Revivify           |     Spirit Guardians |            |
-| (Alt)                                  |        7         |        4         | Guardian Of Faith  |         Wall Of Fire |            |
-| (Alt)                                  |        9         |        5         | Flame Strike       |     Mass Cure Wounds |            |
-| __Hexblade__<br>  Ferr                 |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Warlock            |       Wrathful Smite |            |
-|                                        |        3         |        2         | Blur               |       Branding Smite |            |
-|                                        |        5         |        3         | Blink              |     Elemental Weapon |            |
-|                                        |        7         |        4         | Phantasmal Killer  |     Staggering Smite |            |
-|                                        |        9         |        5         | Banishing Smite    |         Cone Of Cold |            |
-| __Undead__ <br> CyberSpektre           |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Bane               |           False Life |            |
-|                                        |        3         |        2         | Blindness          |     Phantasmal Force |            |
-|                                        |        5         |        3         | Phantom Steed      |      Speak With Dead |            |
-|                                        |        7         |        4         | Death Ward         | Greater Invisibility |            |
-|                                        |        9         |        5         | Cloudkill          |            Contagion |            |
-| __Dread Overlord__ <br> Dread Overlord |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Inflict Wounds     |            Fod Cloud |            |
-|                                        |        3         |        2         | Blindness          |     Phantasmal Force |            |
-|                                        |        5         |        3         | Feign Death        |     Spirit Guardians |            |
-|                                        |        7         |        4         | Death Ward         |    Phantasmal Killer |            |
-|                                        |        9         |        5         | Cloudkill          |            Contagion |            |
-| __Raven Queen__ <br> x                 |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | False Life         |            Sanctuary |            |
-|                                        |        3         |        2         | Silence            |     Spiritual Weapon |            |
-|                                        |        5         |        3         | Feign Death        |      Speak With Dead |            |
-|                                        |        7         |        4         | Death Ward         |            Ice Storm |            |
-|                                        |        9         |        5         | Cone Of Cold       | Dispel Evil And Good |            |
-| __Undead__ <br> Veenab                 |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Bane               |           False Life |            |
-|                                        |        3         |        2         | Blindness          |     Phantasmal Force |            |
-|                                        |        5         |        3         | Phantom Steed      |         Bestow Curse |            |
-|                                        |        7         |        4         | Death Ward         | Greater Invisibility |            |
-|                                        |        9         |        5         | Cloudkill          |             Enervate |            |
-| __Dark Hunger__  <br>    x             |                  |                  |                    |                      |            |
-|                                        |        1         |        1         | Muculent Tentacles |   Chilling Tentacles |            |
-|                                        |        3         |        2         | Phantasmal Force   |       Devouring Void |            |
-|                                        |        5         |        3         | Maw Of Acamar      |     Dead Star Breath |            |
-|                                        |        7         |        4         | Acamar Grasp       |       Brood Of Hadar |            |
-|                                        |        9         |        5         | Enervate           |          Frozen Tomb |            |
+| Class                                                                               | Class <br> Level | Spell <br> Level | Spells             |                      |            |
+| :---------------------------------------------------------------------------------- | :--------------: | :--------------: | :----------------- | -------------------: | ---------: |
+| __Archfey__ <br>Base Game                                                           |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Faerie Fire        |                Sleep |            |
+|                                                                                     |        3         |        2         | Calm Emotions      |     Phantasmal Force |            |
+|                                                                                     |        5         |        3         | Blink              |         Plant Growth |            |
+|                                                                                     |        7         |        4         | Dominate Beast     | Greater Invisibility |            |
+|                                                                                     |        9         |        5         | Dominate Person    |              Seeming |            |
+| __Archfey__ <br>Alternates                                                          |                  |                  |                    |                      |            |
+| (Alt 02)                                                                            |        3         |        2         | Calm Emotions      |     Phantasmal Force | Misty Step |
+| __Fiend__ <br>Base Game                                                             |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Burning Hands      |              Command |            |
+|                                                                                     |        3         |        2         | Blindness          |        Scorching Ray |            |
+|                                                                                     |        5         |        3         | Fireball           |       Stinking Cloud |            |
+|                                                                                     |        7         |        4         | Fire Shield        |         Wall Of Fire |            |
+|                                                                                     |        9         |        5         | Cone Of Cold       |         Flame Strike |            |
+| __Fiend__ <br>Alternates                                                            |                  |                  |                    |                      |            |
+| (Alt A5)                                                                            |        9         |        5         | Cone Of Cold       |        Insect Plague |            |
+| (Alt B5)                                                                            |        9         |        5         | Insect Plague      |         Flame Strike |            |
+| (Alt C5)                                                                            |        9         |        5         | Dominate Person    |        Insect Plague |            |
+| __Great Old One__ <br>Base Game                                                     |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Dissonant Whispers |     Hideous Laughter |            |
+|                                                                                     |        3         |        2         | Detect Thoughts    |     Phantasmal Force |            |
+|                                                                                     |        5         |        3         | Bestow Curse       |                 Slow |            |
+|                                                                                     |        7         |        4         | Dominate Beast     |      Black Tentacles |            |
+|                                                                                     |        9         |        5         | Dominate Person    |          Telekinesis |            |
+| __Great Old One__ <br>Alternates                                                    |                  |                  |                    |                      |            |
+| (Alt A3)                                                                            |        5         |        3         | Bestow Curse       |      Hunger Of Hadar |            |
+| (Alt B3)                                                                            |        5         |        3         | Hunger Of Hadar    |                 Slow |            |
+| (Alt 04)                                                                            |        7         |        4         | Confusion          |      Black Tentacles |            |
+| (Alt A5)                                                                            |        9         |        5         | Synaptic Static    |          Telekinesis |            |
+| __Celestial__<br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/1567)      |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Cure Wounds        |         Guiding Bolt |            |
+|                                                                                     |        3         |        2         | Flaming Sphere     |   Lesser Restoration |            |
+|                                                                                     |        5         |        3         | Daylight           |             Revivify |            |
+|                                                                                     |        7         |        4         | Guardian Of Faith  |         Wall Of Fire |            |
+|                                                                                     |        9         |        5         | Flame Strike       |  Greater Restoration |            |
+| (Alt)                                                                               |        1         |        1         | Cure Wounds        |         Guiding Bolt |            |
+| (Alt)                                                                               |        3         |        2         | Lesser Restoration |             Moonbeam |            |
+| (Alt)                                                                               |        5         |        3         | Revivify           |     Spirit Guardians |            |
+| (Alt)                                                                               |        7         |        4         | Guardian Of Faith  |         Wall Of Fire |            |
+| (Alt)                                                                               |        9         |        5         | Flame Strike       |     Mass Cure Wounds |            |
+| __Hexblade__<br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/1100)       |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Warlock            |       Wrathful Smite |            |
+|                                                                                     |        3         |        2         | Blur               |       Branding Smite |            |
+|                                                                                     |        5         |        3         | Blink              |     Elemental Weapon |            |
+|                                                                                     |        7         |        4         | Phantasmal Killer  |     Staggering Smite |            |
+|                                                                                     |        9         |        5         | Banishing Smite    |         Cone Of Cold |            |
+| __Undead__ <br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/3045)        |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Bane               |           False Life |            |
+|                                                                                     |        3         |        2         | Blindness          |     Phantasmal Force |            |
+|                                                                                     |        5         |        3         | Phantom Steed      |      Speak With Dead |            |
+|                                                                                     |        7         |        4         | Death Ward         | Greater Invisibility |            |
+|                                                                                     |        9         |        5         | Cloudkill          |            Contagion |            |
+| __Dread Overlord__ <br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/394) |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Inflict Wounds     |            Fod Cloud |            |
+|                                                                                     |        3         |        2         | Blindness          |     Phantasmal Force |            |
+|                                                                                     |        5         |        3         | Feign Death        |     Spirit Guardians |            |
+|                                                                                     |        7         |        4         | Death Ward         |    Phantasmal Killer |            |
+|                                                                                     |        9         |        5         | Cloudkill          |            Contagion |            |
+| __Raven Queen__ <br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/1895)   |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | False Life         |            Sanctuary |            |
+|                                                                                     |        3         |        2         | Silence            |     Spiritual Weapon |            |
+|                                                                                     |        5         |        3         | Feign Death        |      Speak With Dead |            |
+|                                                                                     |        7         |        4         | Death Ward         |            Ice Storm |            |
+|                                                                                     |        9         |        5         | Cone Of Cold       | Dispel Evil And Good |            |
+| __Undead__ <br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/2612)        |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Bane               |           False Life |            |
+|                                                                                     |        3         |        2         | Blindness          |     Phantasmal Force |            |
+|                                                                                     |        5         |        3         | Phantom Steed      |         Bestow Curse |            |
+|                                                                                     |        7         |        4         | Death Ward         | Greater Invisibility |            |
+|                                                                                     |        9         |        5         | Cloudkill          |             Enervate |            |
+| __Dark Hunger__ <br>[NexusMods](https://www.nexusmods.com/baldursgate3/mods/5116)   |                  |                  |                    |                      |            |
+|                                                                                     |        1         |        1         | Muculent Tentacles |   Chilling Tentacles |            |
+|                                                                                     |        3         |        2         | Phantasmal Force   |       Devouring Void |            |
+|                                                                                     |        5         |        3         | Maw Of Acamar      |     Dead Star Breath |            |
+|                                                                                     |        7         |        4         | Acamar Grasp       |       Brood Of Hadar |            |
+|                                                                                     |        9         |        5         | Enervate           |          Frozen Tomb |            |
 
 ---
 
