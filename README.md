@@ -16,7 +16,7 @@ This mod uses the Compatibility Framework to add the Patron 'Expanded Spells' yo
 
 > [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5525)
 
-### [Warlock Magical Cunning](Class_Warlock/MagicalCunning/README.md)
+### [Warlock Magical Cunning](Class_Warlock/MagicalCunning/)
 
 Magical Cunning is a new OneDnD feature that allows a Warlock to quickly regain a certain number of spell slots.
 
@@ -27,7 +27,7 @@ If all your Warlock spell slots are expended, you can replenish half of those sp
 > [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
 
 
-### [Starry Wisp Cantrip](Spells_Cantrip/StarryWisp/README.md)
+### [Starry Wisp Cantrip](Spells_Cantrip/StarryWisp/)
 
 Starry Wisp is a new OneDnD cantrip for Bards and Druids.
 
