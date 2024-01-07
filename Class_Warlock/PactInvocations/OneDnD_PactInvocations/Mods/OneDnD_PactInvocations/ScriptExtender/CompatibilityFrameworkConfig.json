@@ -1,0 +1,50 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Warlock Level 1",
+      "UUIDs": ["a7767dc5-e6ab-4e05-96fd-f0424256121c", "20015e25-8aa9-41bf-b959-aa587ba0aa27"],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectPassives",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0101-c01200000004",
+            "Amount": "1",
+            "SelectorId":  "WarlockInvocations"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Warlock Level 5",
+      "UUID": "17dbf049-c6ba-44f0-9183-30847d25ea37",
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Function": "SelectPassives",
+          "X": "ThirstingBlade_Check;ThirstingBlade_Blade;ThirstingBlade_Tome"
+        }
+      ],
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "SelectPassives",
+          "ListUUID": "8adab8f9-e360-4f79-851b-2c7e050ca23d"
+        },
+        {
+          "Action": "Insert",
+          "Function": "SelectPassives",
+          "Params": {
+            "Guid": "8adab8f9-e360-4f79-851b-2c7e050ca23d",
+            "Amount": "2",
+            "SelectorId": "WarlockInvocations"
+          }
+        }
+      ]
+    }
+    
+
+
+  ]
+}
