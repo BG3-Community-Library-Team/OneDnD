@@ -5,7 +5,7 @@
 ### Downloads
 
 - [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.warlock.mc.1.0.0.0)
-- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
+- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5525)
 
 ### Requirements
 
