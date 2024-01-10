@@ -10,13 +10,19 @@ A series of Modular BG3 Mods to allow people to pick which aspects of OneDnD the
 
 ## Includes
 
-- ### [Warlock Patron Spells](Class_Warlock/PatronSpells/)
 - ### [Warlock Magical Cunning](Class_Warlock/MagicalCunning/)
+- ### [Warlock Patron Spells](Class_Warlock/PatronSpells/)
+- ### [Warlock Pacts as Invocations](Class_Warlock/PactInvocations/)
+
+
+
 - ### [Starry Wisp Cantrip](Spells_Cantrip/StarryWisp/)
 
 ## Related
 
 - ### [Warlock Spell List Additions](https://github.com/BG3-Community-Library-Team/CF-Example-Mods)
+
+
 - ### [Monk Weapon Proficiency Additions](https://github.com/BG3-Community-Library-Team/CF-Example-Mods)
 
 ---
