@@ -6,6 +6,16 @@
 
 - [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.warlock.pi.1.0.0.0)
 - [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5794)
+=======
+# Warlock Magical Cunning
+
+[![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/BG3-OneDnD-Modules/ua7.warlock.mc.1.0.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/commit/)  
+
+### Downloads
+
+- [Latest Release](https://github.com/BG3-Community-Library-Team/BG3-OneDnD-Modules/releases/tag/ua7.warlock.mc.1.0.0.0)
+- [Nexusmods](https://www.nexusmods.com/baldursgate3/mods/5203)
+
 
 ### Requirements
 
@@ -15,12 +25,6 @@
 ---
 
 > [Inspired by OneDnD Player's Handbook Playtest 7](https://www.dndbeyond.com/sources/ua/ph-playtest-7)
-
-
-
-## Implementation
-
-
 
 ---
 
