@@ -12,6 +12,18 @@
       ],
       "Type": "PassiveList",
       "Items": [ "PactOfTheBlade", "PactOfTheChain", "PactOfTheTome" ]
+    },
+    {
+      "Action": "Insert",
+      "UUIDs": [
+        "333fb1b0-9398-4ca8-953e-6c0f9a59bbed",
+        "8adab8f9-e360-4f79-851b-2c7e050ca23d",
+        "39efef92-9987-46e2-8c43-54052c1be535",
+        "a2d72748-0792-4f1e-a798-713a66d648eb",
+        "ab56f79f-95ec-48e5-bd83-e80ba9afc844"
+      ],
+      "Type": "PassiveList",
+      "Items": [ "PactOfTheTalisman", "PactOfTheShroud" ]
     }
   ],
   "Progressions": [
@@ -19,6 +31,11 @@
       "Comment": "Warlock Level 1",
       "UUIDs": [ "a7767dc5-e6ab-4e05-96fd-f0424256121c", "20015e25-8aa9-41bf-b959-aa587ba0aa27" ],
       "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "SelectPassives",
+          "UUID": "333fb1b0-9398-4ca8-953e-6c0f9a59bbed"
+        },
         {
           "Action": "Insert",
           "Function": "SelectPassives",
