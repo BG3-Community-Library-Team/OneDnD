@@ -8,7 +8,7 @@ A series of Modular BG3 Mods to allow people to pick which aspects of OneDnD the
 - [BG3-Community-Library](https://github.com/BG3-Community-Library-Team/BG3-Community-Library)
 - [BG3-Compatibility-Framework](https://github.com/BG3-Community-Library-Team/BG3-Compatibility-Framework)
 
-## Includes
+# Includes
 
 ## Barbarian
 - ### [Short Rest Rage Recovery](Class_Barbarian/ShortRestRage/)
