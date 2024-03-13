@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+<!-- 1+ Feats-->
+
+    <content contentuid="h96fd2278gd794g485fg920fg5ffa868bcf87" version="1">Alert</content>
+    <content contentuid="h00cc62cegda83g4cf3gb18eg202e5bf8a0f7" version="3">You gain a +5 bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+
+    <content contentuid="h5b629c28ga19fg4f46gb211g0bdef9937471" version="1">Lightly Armoured</content>
+    <content contentuid="hc36945e7g176dg471egb73bg2c7f2ef68f8c" version="4">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Light Armour and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+
+    <content contentuid="h93d3a685g4c39g4286gae06g2176f0d767f3" version="2">Lucky</content>
+    <content contentuid="had71cd68g4785g40cdg9118g3e1f7c8b06b5" version="5">You gain 3 &lt;LSTag Type="ActionResource" Tooltip="LuckPoint"&gt;Luck Points&lt;/LSTag&gt;, which you can use to gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, or to make an enemy reroll their Attack Rolls.</content>
+
+    <content contentuid="h4dc7d85ag3aceg412bga8e6g07103b9d2f75" version="1">Magic Initiate: Bard</content>
+    <content contentuid="hf7652441g0662g41e6ga744g604094d220ac" version="2">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; and a Level 1 spell from the bard spell list. You can cast the Level 1 spell once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 3 spells is Charisma.</content>
+
+    <content contentuid="h5870bec4g6420g4ea8ga493g5121992156c3" version="1">Magic Initiate: Cleric</content>
+    <content contentuid="h9b2a2c5fg48feg4105g9407ge43a4ace23fc" version="4">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; and a Level 1 spell from the cleric spell list. You can cast the Level 1 spell once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 3 spells is Wisdom.</content>
+               
+    <content contentuid="h520bba07g4665g4ef0gb7e0g2550a2cf7d35" version="1">Magic Initiate: Druid</content>
+    <content contentuid="hf862276agfcbeg4286ga36bge847467f9f93" version="2">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; and a Level 1 spell from the druid spell list. You can cast the Level 1 spell once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 3 spells is Wisdom.</content>
+        
+    <content contentuid="h8ef56b7fg497fg4c6fgb6f0gf05820bafa4a" version="1">Magic Initiate: Sorcerer</content>
+    <content contentuid="hb701f39fg2c96g4b96gb07eg28d776679f0b" version="2">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; and a Level 1 spell from the sorcerer spell list. You can cast the Level 1 spell once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 3 spells is Charisma.</content>
+
+    <content contentuid="h91fa5d16gbd1dg464cg82cfg36e986f84f2e" version="1">Magic Initiate: Warlock</content>
+    <content contentuid="h19708a86g3f85g45f3g9531ge46d90dd5295" version="4">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; and a Level 1 spell from the warlock spell list. You can cast the Level 1 spell once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 3 spells is Charisma.</content>
+        
+    <content contentuid="he084fbc0gb92fg4116gac6egf0b67d34e1e3" version="1">Magic Initiate: Wizard</content>
+    <content contentuid="h50944986g8570g4c14g8faeg51ab9b965898" version="4">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; and a Level 1 spell from the wizard spell list. You can cast the Level 1 spell once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 3 spells is Intelligence.</content>
+        
+    <content contentuid="h0cfdeae1g9386g412dg9eccgbdcb60651f37" version="2">Musician</content><!-- Formerly Performer-->
+    <content contentuid="hc4eddf03g5ce0g49cbga79ag2fbcdcdd0db8" version="5">You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;.</content>
+
+    <content contentuid="h272c92eag97cag4e32g9659g1c947e14a32d" version="1">Savage Attacker</content>
+    <content contentuid="hb678b565g086fg415eg80dcg71905c52c9e5" version="4">When making melee weapon attacks, you roll your damage dice twice and use the highest result.</content>
+
+    <content contentuid="h9a80093agaa68g4543gbd90g4f003fbb5518" version="1">Skilled</content>
+    <content contentuid="hdabcf4aeg6c5cg4c64ga9adge5d6fbb64252" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in 3 &lt;LSTag Tooltip="Skill"&gt;Skills&lt;/LSTag&gt; of your choice.</content>
+    
+    <content contentuid="h50b861bdg5897g416fg8310g535d08356712" version="1">Tough</content>
+    <content contentuid="h03874726g6ebbg4d7cg9723ge342da628ef1" version="4">Your hit point maximum increases by 2 for every level you have gained.</content>
+
+    
+    <content contentuid="h1a3b6583g891fg4caag9095g3f557dbee5bd" version="2">Tavern Brawler</content>
+    <content contentuid="hf65735c9g9a47g4b10gbc09g980041172bba" version="3">When you make an unarmed attack, use an improvised weapon, or throw something, your Strength &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; is added twice to the damage and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 4+ Feats-->
+    <content contentuid="h758e5f63gaf43g4cb8g823fgfd38226d2ecd" version="1">Ability Improvement</content>
+    <content contentuid="hdf3e5485gb8a0g4cfdgb6a8g739df90f7fc6" version="4">You increase one Ability by 2, or two Abilities by 1, to a maximum of 20.</content>
+
+    <content contentuid="h043b0a57ga233g4e36ga311g02054a355b31" version="1">Actor</content>
+    <content contentuid="h744a3cbcgdc82g4bddg9484g4c296893ae24" version="4">Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is also doubled for Deception and Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+    
+    <content contentuid="h860bd485g72b2g45b8gbad7g02e8f5acdd3e" version="1">Athlete</content>
+    <content contentuid="h4b921d5bg6e70g455cga6fcg68c4e67f9067" version="7">Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;When you are Prone, standing up uses significantly less movement. Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance also increases by 50%.</content>
+    
+    <content contentuid="h4fb6d9dfg2ef0g43e1g8ccag7093111a327d" version="2">Charger</content>
+    <content contentuid="hfc123f37gc3f6g4a5dgadceg9717da6be989" version="4">You gain &lt;LSTag Type="Spell" Tooltip="Rush_Charger_Attack"&gt;Charger: Weapon Attack&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Rush_Charger_Push"&gt;Charger: Shove&lt;/LSTag&gt;.</content>
+
+    <content contentuid="hd025b817g4bf9g4411g8f23g73cd511a0d81" version="2">Crossbow Expert</content>
+    <content contentuid="hf07ca2a0ge448g4e8dgabacg6152b9475931" version="6">When you make crossbow attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Type="Spell" Tooltip="Projectile_PiercingShot"&gt;Piercing Shot&lt;/LSTag&gt; also inflicts &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;Gaping Wounds&lt;/LSTag&gt; for twice as long.</content>
+    
+    <content contentuid="h9f05bf25g42e6g4a3bg87f1g9a29eab42f46" version="1">Defensive Duellist</content>
+    <content contentuid="hdfa3690dg2789g4c23g89f4g1200340433ed" version="3">When attacked while wielding a &lt;LSTag Tooltip="Finesse"&gt;Finesse Weapon&lt;/LSTag&gt; you're &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with, you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to add your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, possibly causing the attack to miss. </content>
+    
+    <content contentuid="h1d620270gba24g434egad17g5ee9b72a6e3e" version="1">Dual Wielder</content>
+    <content contentuid="h1909840bg87f1g4029g9be6g974d9233f516" version="4">You can use Two-Weapon Fighting even if your weapons aren't &lt;LSTag Tooltip="Light"&gt;Light&lt;/LSTag&gt;, and you gain a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; while wielding a melee weapon in each hand. You cannot dual-wield &lt;LSTag Tooltip="Heavy"&gt;Heavy&lt;/LSTag&gt; weapons.</content>
+    
+    <content contentuid="ha5e18f65g3d5dg45b2g8d38gc9ee902a2be6" version="1">Dungeon Delver</content>
+    <content contentuid="hf66efa4dg10efg4979gaa98g70fe4635cf62" version="3">You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; made to detect hidden objects and on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; made to avoid or resist traps.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the damage dealt by traps.</content>
+    
+    <content contentuid="hbf51f1d9g5fafg40ceg9a6egbff13973f4a7" version="1">Durable</content>
+    <content contentuid="hba1b3efag40e4g45e6gb775g4523353b4dbb" version="3">Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;You regain full &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; each time you take a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+
+    <content contentuid="haf24377ag8735g4309gb82dg33c5b5018f4e" version="1">Elemental Adept</content>
+    <content contentuid="hd1905d1cg1a95g41e6gbbb4g606e18e0ba6d" version="4">Your spells and attacks ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to a damage type of your choice. When you cast spells of that type, you cannot roll a 1.</content>
+
+    <content contentuid="hf41eb2bag6496g4187g994dg62b9cb959e29" version="1">Great Weapon Master</content>
+    <content contentuid="hea61c527gd53fg46fega454g2bc02f65d75f" version="5">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; or kill a target with a &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;melee weapon attack&lt;/LSTag&gt;, you can make another melee weapon attack as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; that turn.&lt;br&gt;&lt;br&gt;Attacks with melee weapons you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with, and are wielding in both hands, can deal an additional 10 damage at the cost of a -5 &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; penalty. (You can toggle this on and off.)</content>
+    
+    <content contentuid="h75a791a4g89d7g4796gaa53g2adad2b64396" version="1">Heavily Armoured</content>
+    <content contentuid="had223ab5g0589g4d3egb17fg594c2f46167a" version="3">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+
+    <content contentuid="he08f7ed6g8319g4596gacdag34c16e115fd3" version="2">Heavy Armour Master</content>
+    <content contentuid="h0d31ccf3g91e2g4aacgbdd8g44e3ca8b801e" version="5">Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Incoming damage from non-magical attacks also decreases by 3 while you're wearing heavy armour.</content>
+
+    
+
+    <content contentuid="h1f659d00g360ag4878ga134ge53f3ab86860" version="1">Mage Slayer</content>
+    <content contentuid="h71d4b176gf657g4a3cgb40egc2963041d10f" version="5">When a creature casts a spell within melee range of you, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on any &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against it, and you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to immediately make an attack against the caster.&lt;br&gt;&lt;br&gt;Enemies you hit have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+
+
+    <content contentuid="hfc6d8c58gfb0eg4514gbf27g05a428bc70fe" version="1">Martial Adept</content>
+    <content contentuid="h1b9bb939ga573g4e5dg8c16g20dfce934df7" version="4">You learn two manoeuvres from the Battle Master subclass and gain a &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Superiority Die&lt;/LSTag&gt; to fuel them. You regain expended Superiority Dice after a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+        
+    <content contentuid="hb434e5e8g23c2g439eg9703g2ac8fc9616ea" version="1">Mobile</content>
+    <content contentuid="hea5b6476gaefcg412ag9d1dgb081d4e61c19" version="4">Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases, and difficult terrain doesn't slow you down when you &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
+        
+    <content contentuid="h59206840g58f3g4a32g80afg737175740ee5" version="1">Moderately Armoured</content>
+    <content contentuid="he5fd3ca4gd8b9g43eagadaeg328af1b11606" version="3">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Medium Armour and shields, and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+        
+
+
+
+
+    <content contentuid="h1b9ef848g1cb9g43b5g9114g9d1c0b7ca2c2" version="2">Resilient</content>
+    <content contentuid="h412e9bcbg8537g488cgb482gaf0772805fe2" version="3">You increase an &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt; by 1, to a maximum of 20, and gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in that Ability's &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+
+    <content contentuid="h8a1fc864gd2a9g4ec9ga43ag1654973e98f6" version="1">Ritual Caster</content>
+    <content contentuid="h2c5cabf2gf9a6g4140gb117g547edccf88b2" version="2">You learn two &lt;LSTag Tooltip="RitualSpell"&gt;ritual spells&lt;/LSTag&gt; of your choice.</content>
+
+
+    <content contentuid="h29babc87g541ag403bgba9dg41739c982db9" version="2">Sentinel</content>
+    <content contentuid="h19101a50g5b6ag44acgb14dg52eb3877cd28" version="7">When an enemy within melee range attacks an ally, you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make a weapon attack against that enemy. Target ally must not have the Sentinel Feat.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, and when you hit a creature with an Opportunity Attack, it can no longer move for the rest of its turn.</content>
+
+    <content contentuid="h7fd575c5g3a3ag46a8g9a40gcddf1cd2b044" version="1">Sharpshooter</content>
+    <content contentuid="h0bf50988g8a65g40c1ga9e1g2ad5b6387678" version="3">Your &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt; do not receive penalties from &lt;LSTag Tooltip="HighGroundRules"&gt;High Ground Rules&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Ranged weapon attacks with weapons you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with have a -5 penalty to their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, but deal an additional 10 damage. (You can toggle this on or off.)</content>
+    
+    <content contentuid="hd4a3bef0gf582g4dbeg93b6g3789fe09decf" version="2">Spell Sniper</content>
+    <content contentuid="h40691a88g9970g4279gb27fg3383b444aa40" version="5">You learn a &lt;LSTag Tooltip="Cantrip"&gt;cantrip&lt;/LSTag&gt;, and the number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with spells is reduced by 1. This effect can stack.</content>
+    
+    <content contentuid="haadef5acg36f8g4affg8c7bg7901735048a8" version="2">War Caster</content>
+    <content contentuid="h2967e308gd644g46d5g91e4g3de62873eef7" version="5">You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; on a spell.&lt;br&gt;&lt;br&gt;You can also use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to cast &lt;LSTag Type="Spell" Tooltip="Target_ShockingGrasp"&gt;Shocking Grasp&lt;/LSTag&gt; at a target moving out of melee range.</content>
+    
+    <content contentuid="h162fd905g35f6g424cgbe1dgaad4af99fdef" version="1">Medium Armour Master</content>
+    <content contentuid="haaee63c7gdd27g4eaag969egb094a312cfc9" version="4">When you wear Medium Armour, it doesn't impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;. The bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; you can gain from your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; also becomes +3 instead of +2.</content>
+    
+    <content contentuid="ha7c4e2fag1168g4275g9cadg5038645ea85f" version="1">Polearm Master</content>
+    <content contentuid="hc87a7293g3b25g406bg99e4gbb91dc138e9b" version="3">When attacking with a glaive, halberd, quarterstaff, or spear, you can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to attack with the butt of your weapon.&lt;br&gt;&lt;br&gt;You can also make an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt; when a target comes within range.</content>
+    
+    <content contentuid="h8d63974fgdcb8g463fg8bedg7e8f1ceb9722" version="1">Shield Master</content>
+    <content contentuid="h7d3721fbg8c06g47ceg8584g3b7b26d94174" version="3">You gain a +2 bonus to Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; while wielding a shield. If a spell forces you to make a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to shield yourself and diminish the effect's damage. On a failed Saving Throw, you only take half damage. On a successful Saving Throw, you don't take any damage.</content>
+    
+    
+    <content contentuid="h6c2e19f1gcf94g4189g8a79gfc5f3062cccc" version="1">Weapon Master</content>
+    <content contentuid="hc9f7204dg3d88g4a73g8d0dg553e5833d9db" version="4">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with four weapons of your choice, and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+    
+<!-- Feats Extra -->
+	<content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspiring Leader</content>
+	<content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">You can spend 10 minutes &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Inspiring&lt;/LSTag&gt; your companions, shoring up their resolve to fight.</content>
+
+    <content contentuid="hg68c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Skulker</content>
+	<content contentuid="hg69c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Prerequisite: Dexterity 13 or higher
+	
+You can try to hide when you are only &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Lightly Obscured&lt;/LSTag&gt;.
+
+When you are hidden from a creature and miss it with a &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt;, your attack doesn't reveal your position.
+
+Dim light doesn't impose &lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LsTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt; made with sight.</content>
+
+
+</contentList>

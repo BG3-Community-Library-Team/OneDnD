@@ -1,0 +1,334 @@
+{
+  "FileVersion": 1,
+  "Spells": [
+    { 
+      "Comment": [ "Update Lightly Armored" ],
+      "ID": "LightlyArmored",
+      "Action": "Insert",
+      "Boosts": [
+        "Proficiency(MediumArmor)",
+        "Proficiency(Shields)"
+      ]
+    },
+    {      
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "HeavilyArmored",
+      "Action": "Remove",
+      "Boosts": ["Ability(Strength, 1, 20)"]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "HeavyArmorMaster",
+      "Action": "Remove",
+      "Boosts": ["Ability(Strength, 1, 20)"]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Durable",
+      "Action": "Remove",
+      "Boosts": [
+        "Ability(Constitution,1,20)"
+      ]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Resilient_Strength",
+      "Action": "Remove",
+      "Boosts": [
+        "Ability(Strength,1,20)"
+      ]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Resilient_Dexterity",
+      "Action": "Remove",
+      "Boosts": [
+        "Ability(Dexterity,1,20)"
+      ]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Resilient_Constitution",
+      "Action": "Remove",
+      "Boosts": [
+        "Ability(Constitution,1,20)"
+      ]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Resilient_Intelligence",
+      "Action": "Remove",
+      "Boosts": [
+        "Ability(Intelligence,1,20)"
+      ]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Resilient_Wisdom",
+      "Action": "Remove",
+      "Boosts": [
+        "Ability(Wisdom,1,20)"
+      ]
+    },
+    {
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Resilient_Charisma",
+      "Action": "Remove",
+      "Boosts": [
+        "Ability(Charisma,1,20)"
+      ]
+    },
+    { 
+      "Comment": [ "Removing Passive ASI to replace with Selector" ],
+      "ID": "Actor",
+      "Action": "Remove",
+      "Boosts": ["Ability(Charisma, 1)"]
+    }
+  ],
+  "Feats": [
+    {
+      "Comment": [ "First Level Feat Ability Score Removal: Tavern Brawler " ],
+      "UUIDs": [
+        "be0889d2-f9aa-472d-b942-592bff0f1ef3"
+      ],
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "SelectAbilities",
+          "UUID": "859878b3-9c3a-450d-a190-bc90707c9671"
+        }
+      ]
+    },
+    {
+      "Comment": [ "First Level Feat Ability Score Removal: Lightly Armored" ],
+      "UUIDs": [
+        "b441c722-e4d4-4702-861a-039bfd77c124"
+      ],
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "SelectAbilities",
+          "UUID": "499230af-5946-4680-a7ee-4d76d421f2ef"
+        }
+      ]
+    },
+
+
+    {
+      "Comment": [ "STR Selector",
+        "Great Weapon Master",
+        "Polearm Master",
+        "Shield Master"
+      ],
+      "UUIDs": [
+        "c09815f7-282b-4ccf-bd89-a51caa1b550f",
+        "fdf0be80-cc1e-4501-bd2e-7a1ea737362c",
+        "3fe71254-d1b2-44c7-886c-927552fe5f2e"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "9b261df4-1d57-4b9e-b89a-72b4cd295302",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "DEX Selector",
+        "Crossbow Expert",
+        "Defensive Duellist",
+        "Sharpshooter"
+      ],
+      "UUIDs": [
+        "94a78b4c-a8f2-404f-8cdc-2d454c13cb97",
+        "661eee63-ff91-4f29-9f21-3a974c9d6fe5",
+        "010f717e-c6e2-45cf-bbf9-298a72db4cad"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "64cf0b03-b00c-49b2-8582-41fab7ad6d14",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "CON Selector",
+        "Durable"
+      ],
+      "UUIDs": [
+        "56c3c247-35cf-4ffd-86dd-7d249cc1808f"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "5eb33dfa-ea3f-4039-9aa7-a47855f0a41a",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "CHA Selector",
+        "Actor"
+      ],
+      "UUIDs": [
+        "cdcbc538-883b-401c-a8ed-1373fb6d1720"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "98acdfcb-3c74-4e1a-8707-5d6da747d430",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "STR/DEX Selector",
+        "Charger",
+        "Dual Wielder",
+        "Mage Slayer",
+        "Medium Armour Master",
+        "Sentinel"
+      ],
+      "UUIDs": [
+        "eab25714-15d6-4e26-b809-3fad832d0484",
+        "f692f7b5-ffd5-4942-91a1-a71ebb2f5e7c",
+        "a533fde7-ee0a-46ce-92e2-9763201a54d2",
+        "17ac3605-9a8a-41f3-9504-ffc17fffa03e",
+        "816b1554-9384-49e9-aaa0-05dd622e60f7"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "499230af-5946-4680-a7ee-4d76d421f2ef",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "STR/CON Selector",
+        "Heavily Armoured",
+        "Heavy Armour Master"
+      ],
+      "UUIDs": [
+        "7bc235ac-7eeb-49d3-8249-c3313d87af75",
+        "0de08fff-ab18-442f-a0b1-f53e7be04c03"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "859878b3-9c3a-450d-a190-bc90707c9671",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "DEX/CON Selector",
+        "Mobile"
+      ],
+      "UUIDs": [
+        "0a3b07bf-a806-4c77-9c8f-6e7c0965f9dd"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "4e26cf8b-d379-484d-99b7-79b2517e4148",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "INT/WIS/CHA Selector",
+        "Elemental Adept",
+        "Ritual Caster",  
+        "Spell Sniper",   
+        "War Caster"
+      ],
+      "UUIDs": [
+        "cec2d95b-451c-40f8-8e17-9e547d363e8e",
+        "f3370916-6b35-4c5b-af36-19ca888cb43e",
+        "c02f22c9-9a06-4001-b917-4d5cf09be399",
+        "ed4e367d-d136-4285-abac-077147e84cf2"
+      ],
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "c2d776d3-b611-44e1-989f-32979ae1f067",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "FeatsExtra: DEX Selector ",
+        "Skulker"
+      ],
+      "UUIDs": [
+        "2a7931b5-670e-40f0-aad8-77a4655ac80b"
+      ],
+      "Selectors": [
+        {
+          "ModGuid": "0c036a05-f3e4-4422-87bd-eadadf96c161",
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "64cf0b03-b00c-49b2-8582-41fab7ad6d14",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": [ "FeatsExtra: WIS/CHA Selector ",
+        "Inspiring Leader"
+      ],
+      "UUIDs": [
+        "d994e15a-5013-44e9-89e5-deeeeeeeeeee"
+      ],
+      "Selectors": [
+        {
+          "ModGuid": "0c036a05-f3e4-4422-87bd-eadadf96c161",
+          "Action": "Insert",
+          "Function": "SelectAbilities",
+          "Params": {
+            "Guid": "f87fc239-4cab-48bb-8df2-6d272fdacd4f",
+            "Amount": "1",
+            "AbilityAmount": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

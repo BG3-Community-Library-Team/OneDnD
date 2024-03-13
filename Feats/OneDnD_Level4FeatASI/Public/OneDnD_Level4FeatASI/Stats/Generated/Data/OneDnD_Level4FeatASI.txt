@@ -1,0 +1,15 @@
+new entry "Shout_PactOfTheBlade_Bind"
+type "SpellData"
+using "Shout_PactOfTheBlade_Bind"
+data "DisplayName" "h792f77b5g03bag427fga86cg6e0cbaa95b64;1"
+
+new entry "CL_Shout_OneDnD_PactOfTheBlade_Bind"
+type "SpellData"
+using "CL_Shout_OneDnD_PactOfTheBlade_Bind"
+data "DisplayName" "h729fb1d0gfd75g4088gaf81g66bc29d92a6c;1"
+
+new entry "Shout_PactOfTheBlade"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_PactOfTheBlade"
+data "UseCosts" "BonusActionPoint:1"

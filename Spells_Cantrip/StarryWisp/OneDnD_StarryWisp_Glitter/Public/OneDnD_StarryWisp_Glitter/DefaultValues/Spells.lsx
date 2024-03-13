@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Shout_Shillelagh;CL_Projectile_OneDnD_StarryWisp_Glitter;Target_ThornWhip;Projectile_PoisonSpray"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
+                    <attribute id="UUID" type="guid" value="dea46e55-dda3-4046-99c1-f452c69f7db1"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_ViciousMockery;CL_Projectile_OneDnD_StarryWisp_Glitter;Shout_BladeWard;Target_MageHand;Target_TrueStrike;Target_Friends;Target_DancingLights;Target_Light;Target_MinorIllusion"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="BardCantrip"/>
+                    <attribute id="TableUUID" type="guid" value="229c98da-2cd1-4a5e-8051-9d90ec7931e7"/>
+                    <attribute id="UUID" type="guid" value="da27c2d9-64fc-4c5c-a49b-c318e1cfcf15"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
