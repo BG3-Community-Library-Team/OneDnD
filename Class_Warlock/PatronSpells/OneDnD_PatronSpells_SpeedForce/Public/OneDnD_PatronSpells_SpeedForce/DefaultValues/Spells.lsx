@@ -15,12 +15,9 @@
                     <attribute id="Comment" type="LSString" value=""/>
                     <attribute id="Add" type="LSString" value="Shout_ExpeditiousRetreat;Target_Hex;Projectile_WitchBolt;Target_ProtectionFromEvilAndGood;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_CauseFear;Shout_HellishRebuke;Target_UnseenServant"/>
                     <attribute id="Level" type="int32" value="1"/>
-                    <attribute id="TableUUID" type="guid" value=""/>
+                    <attribute id="TableUUID" type="guid" value="2adf8a72-6d0d-40ea-a455-348665fa55b3"/>
                     <attribute id="UUID" type="guid" value="c1cfc0d3-1dad-df5c-1401-c01200000002"/>
                 </node>
-
-
-
             </children>
         </node>
     </region>
