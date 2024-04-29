@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h12acf4ef97a740e89b27a9d5a258ee8e11g7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2833afe5dba74f8680ef69d9fc8956b37cc9" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(KiPoint,2,0)"/>
+                    <attribute id="ProgressionId" type="guid" value="c17915f1-df2b-4cce-876f-68faf153f373"/>
+                    <attribute id="UUID" type="guid" value="b1db17d6-9942-4cf7-b588-033683ab2da3"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb8291b241bc84255af5815b4df5f2226ee5e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8947490e4ba34e3cbf8e9841392b6aad9245" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:KiPoint"/>
+                    <attribute id="ProgressionTableId" type="guid" value="fe1319a2-86be-469c-aab5-e3b0bd714e0e"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="3b8b62b7-05a4-428e-9f1c-cc50ef875a9c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

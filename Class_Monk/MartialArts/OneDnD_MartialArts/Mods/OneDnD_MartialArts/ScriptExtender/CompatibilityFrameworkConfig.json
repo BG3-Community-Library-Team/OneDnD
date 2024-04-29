@@ -1,0 +1,37 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Monk",
+      "UUIDs": ["c091d27e-009b-4841-8bde-5e63e5ca8f4e","297e0cb5-9743-4ae8-b053-b3850f0fa134"],
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "PassivesAdded",
+          "Strings": [
+            "MartialArts_UnarmedDamage",
+            "MartialArts_DextrousUnarmedAttacks",
+            "MartialArts_BonusUnarmedStrike"
+          ]
+        },
+        {
+          "Action": "Insert",
+          "Type": "Boosts",
+          "Strings": [
+            "Proficiency(Scimitars)",
+            "Proficiency(HandCrossbows)"
+          ]
+        },
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": [
+            "CL_Passive_OneDnD_MartialArts",
+            "CL_Passive_OneDnD_MartialArts_DextrousAttacks",
+            "CL_Passive_OneDnD_MartialArts_UnarmedStrikes"
+          ]
+        }
+      ]
+    }
+  ]
+}

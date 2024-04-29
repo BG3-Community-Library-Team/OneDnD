@@ -1,0 +1,59 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Monk",
+      "UUIDs": ["c091d27e-009b-4841-8bde-5e63e5ca8f4e","297e0cb5-9743-4ae8-b053-b3850f0fa134"],
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "PassivesAdded",
+          "Strings": [
+            "FlurryOfBlowsUnlock"
+          ]
+        },
+        {
+          "Action": "Remove",
+          "Type": "Boosts",
+          "Strings": [
+            "ActionResource(KiPoint,2,0)"
+          ]
+        }
+      ]
+    },
+    {
+      "Comment": "Monk 2",
+      "UUID": "c17915f1-df2b-4cce-876f-68faf153f373",
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "AddSpells",
+          "UUID": "2715246d-3375-4766-9a3e-5961efd56748"
+        }
+      ],
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "Boosts",
+          "Strings": [
+            "ActionResource(KiPoint,1,0)"
+          ]
+        },
+        {
+          "Action": "Insert",
+          "Type": "Boosts",
+          "Strings": [
+            "ActionResource(KiPoint,2,0)"
+          ]
+        },
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": [
+            "CL_Passive_OneDnD_MonksDiscipline"
+          ]
+        }
+      ]
+    }
+  ]
+}

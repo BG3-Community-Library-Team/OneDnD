@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="302"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h12acf4ef97a740e89b27a9d5a258ee8e11g7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbdbfec264cdb4ee98e665df930390108a41e" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="KiPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="46d3d228-04e0-4a43-9a2e-78137e858c14"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
