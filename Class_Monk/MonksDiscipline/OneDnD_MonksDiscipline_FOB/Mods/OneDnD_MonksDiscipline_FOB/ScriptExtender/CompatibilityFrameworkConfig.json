@@ -1,0 +1,19 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Monk 2",
+      "UUID": "c17915f1-df2b-4cce-876f-68faf153f373",
+      "Strings": [
+        {
+          "modGuid": "c1cfc0d3-1dad-0000-0000-c00700000003",
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": [
+            "FlurryOfBlowsUnlock"
+          ]
+        }
+      ]
+    }
+  ]
+}
