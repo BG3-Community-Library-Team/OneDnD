@@ -3,6 +3,13 @@
   "Progressions": [ 
   { "Comment": "Wizard Level 2",
     "UUID": "d6184c47-5b99-4e63-95ac-02f8ce4ccda1",
+    "Strings": [ {
+      "Action": "Insert",
+      "Type": "PassivesAdded",
+      "Strings": [
+        "CL_Passive_OneDnD_Scholar"
+      ]
+    } ],
     "Selectors": [ {
       "Action": "Insert",
       "Function": "SelectSkillsExpertise",
