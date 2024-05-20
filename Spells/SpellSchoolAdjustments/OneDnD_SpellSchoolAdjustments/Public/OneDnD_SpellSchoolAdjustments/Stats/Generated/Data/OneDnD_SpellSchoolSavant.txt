@@ -1,0 +1,159 @@
+////////////////////
+// CANTRIPS
+// Acid Splash   	    0	Evocation*
+// Produce Flame	    0	Evocation*
+// Dancing Lights	    0	Illusion*
+// Poison Spray         0	Necromancy*
+
+// Projectile_AcidSplash
+new entry "Projectile_AcidSplash"
+type "SpellData"
+data "SpellType" "Target"
+using "Projectile_AcidSplash"
+data "SpellSchool" "Evocation"
+
+// Shout_ProduceFlame
+new entry "Shout_ProduceFlame"
+type "SpellData"
+data "SpellType" "Target"
+using "Shout_ProduceFlame"
+data "SpellSchool" "Evocation"
+// Projectile_ProduceFlame_Hurl
+new entry "Projectile_ProduceFlame_Hurl"
+type "SpellData"
+data "SpellType" "Target"
+using "Projectile_ProduceFlame_Hurl"
+data "SpellSchool" "Evocation"
+
+// Target_DancingLights
+new entry "Target_DancingLights"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_DancingLights"
+data "SpellSchool" "Illusion"
+
+// Projectile_PoisonSpray
+new entry "Projectile_PoisonSpray"
+type "SpellData"
+data "SpellType" "Target"
+using "Projectile_PoisonSpray"
+data "SpellSchool" "Necromancy"
+
+////////////////////
+// SPELL LEVEL 1
+// Cure Wounds          1	Abjuration*
+// Healing Word	        1	Abjuration*
+// Wrathful Smite	    1	Necromancy*
+// Divine Favor	        1	Transmut.*
+
+// Target_CureWounds
+new entry "Target_CureWounds"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_CureWounds"
+data "SpellSchool" "Abjuration"
+
+// Target_HealingWord
+new entry "Target_HealingWord"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_HealingWord"
+data "SpellSchool" "Abjuration"
+
+// Target_Smite_Wrathful
+new entry "Target_Smite_Wrathful"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Smite_Wrathful"
+data "SpellSchool" "Necromancy"
+
+////////////////////
+// SPELL LEVEL 2
+// Prayer of Healing	2	Abjuration*
+// Flaming Sphere	    2	Evocation*
+// Blindness / Deafness	2	Transmut.*
+
+// Shout_PrayerOfHealing
+new entry "Shout_PrayerOfHealing"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_PrayerOfHealing"
+data "SpellSchool" "Abjuration"
+
+// Target_FlamingSphere
+new entry "Target_FlamingSphere"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_FlamingSphere"
+data "SpellSchool" "Evocation"
+
+// Target_Blindness
+new entry "Target_Blindness"
+type "SpellData"
+data "SpellType" "Target"
+using 
+data "SpellSchool" "Transmutation"
+
+////////////////////
+// SPELL LEVEL 3 
+// Aura of Vitality	    3	Abjuration*
+// Mass Healing Word	3	Abjuration*
+// Sending	            3	Divination*
+// Crusader’s Mantle	3	Transmut.*
+
+// Shout_AuraOfVitality
+new entry "Shout_AuraOfVitality"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOfVitality"
+data "SpellSchool" "Abjuration"
+
+// Shout_HealingWord_Mass
+new entry "Shout_HealingWord_Mass"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_HealingWord_Mass"
+data "SpellSchool" "Abjuration"
+
+// Shout_CrusadersMantle
+new entry "Shout_CrusadersMantle"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_CrusadersMantle"
+data "SpellSchool" "Transmutation"
+
+////////////////////
+// SPELL LEVEL 4
+// Stoneskin	        4	Transmut.*
+
+// Target_Stoneskin
+new entry "Target_Stoneskin"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Stoneskin"
+data "SpellSchool" "Transmutation"
+
+////////////////////
+// SPELL LEVEL 5
+// Hallow	            5	Abjuration*
+// Mass Cure Wounds	    5	Abjuration*
+// Reincarnate	        5	Necromancy*
+
+// Target_CureWounds_Mass
+new entry "Target_CureWounds_Mass"
+type "SpellData"
+data "SpellType" "Shout"
+using "Target_CureWounds_Mass"
+data "SpellSchool" "Abjuration"
+
+////////////////////
+// SPELL LEVEL 6
+// Contingency          6	Abjuration*
+// Heal	                6	Abjuration*
+
+// Target_Heal
+new entry "Target_Heal"
+type "SpellData"
+data "SpellType" "Shout"
+using "Target_Heal"
+data "SpellSchool" "Abjuration"

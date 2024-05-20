@@ -1,0 +1,29 @@
+////////////////////
+// SPELL LEVEL 7
+
+////////////////////
+// SPELL LEVEL 8
+// Telepathy	        8	Divination*
+// Glibness     	    8	Enchantment*
+// Earthquake	        8	Transmut.*
+
+////////////////////
+// SPELL LEVEL 9
+// Mass Heal	        9	Abjuration*
+// Power Word Heal	    9	Abjuration*
+
+// Target_MassHeal (5e)
+new entry "Target_MassHeal"
+type "SpellData"
+data "SpellType" "Shout"
+using "Target_MassHeal"
+data "SpellSchool" "Abjuration"
+
+// Target_PowerWordHeal (5e) 
+new entry "Target_PowerWordHeal"
+type "SpellData"
+data "SpellType" "Shout"
+using "Target_PowerWordHeal"
+data "SpellSchool" "Abjuration"
+
+////////////////////
