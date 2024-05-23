@@ -1,0 +1,98 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Undying Light Level 1",
+      "UUID": "832e41cc-2bdc-4eeb-ac8a-2b06c2604532",
+      "Strings": [
+        {
+          "modGuid": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_PatronSpells"]
+        }
+      ],
+      "Selectors": [
+        {
+          "modGuid": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-15a1-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undying Light Level 3",
+      "UUID": "d2678785-edeb-4390-806a-b7caae047e61",
+      "Selectors": [
+        {
+          "modGuid": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-15a2-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undying Light Level 5",
+      "UUID": "4c4d3c7e-07d4-4222-8c05-20aabfc57e50",
+      "Selectors": [
+        {
+          "modGuid": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-15a3-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undying Light Level 7",
+      "UUID": "fed535cd-5b4c-4a9e-b556-fd92eaae2637",
+      "Selectors": [
+        {
+          "modGuid": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-15a4-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Undying Light Level 9",
+      "UUID": "a9f635ed-0ddc-4c3d-ae04-ab16b60da28d",
+      "Selectors": [
+        {
+          "modGuid": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-15a5-c01200000002",
+            "SelectorId":  "CL_OneDnD_PatronSpells",
+            "PrepareType": "AlwaysPrepared",
+            "ActionResource":  "e9127b70-22b7-42a1-b172-d02f828f260a"
+          }
+        }
+      ]
+    }
+  ]
+}
