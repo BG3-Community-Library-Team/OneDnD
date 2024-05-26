@@ -1,0 +1,967 @@
+{
+  "FileVersion": 1,
+  "Progressions": [ 
+    { "Comment": "Wizard Level 2",
+    "UUID": "d6184c47-5b99-4e63-95ac-02f8ce4ccda1",
+    "Strings": [ {
+      "Action": "Insert",
+      "Type": "PassivesAdded",
+      "Strings": [
+        "CL_Passive_OneDnD_Scholar"
+      ]
+    } ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSkillsExpertise",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0100-c01300000003",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_Scholar"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 1",
+    "UUID": "c29c6eb8-c79b-4f89-9095-cd39048043ba",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Abjuration)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0201-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 2",
+    "UUID": "2bc2b4ab-426b-424f-a723-0ec49a9cf25c",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0202-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 3",
+    "UUID": "2bdd4509-86b0-4a78-9ca4-0f303f988f2b",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0203-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 4",
+    "UUID": "bcfd08bd-e2ee-4054-872c-f9769f9a5cfe",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0204-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 5",
+    "UUID": "2c0ffd0b-44b9-45bc-a256-0a9a645e5acc",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0205-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 6",
+    "UUID": "43626994-8985-4d09-91e3-4b00a0a04271",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0206-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 7",
+    "UUID": "feaa96e0-da66-4fd1-a095-718f8a68f2e4",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0207-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 8",
+    "UUID": "44e4a1c6-a86a-4e61-b940-c6d1277fb849",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0208-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Abjuration Spell Level 9",
+    "UUID": "d4ae2b46-1e02-470c-8fef-3cecf14669cc",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0209-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_AbjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 1",
+    "UUID": "f7b1bfed-d4bd-4e05-8cd9-f9cb59ccc2e0",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Conjuration)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0601-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 2",
+    "UUID": "e6a249d9-2c05-4530-bfbf-79c4dc8a364c",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0602-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 3",
+    "UUID": "b46c017f-811a-437f-a3cb-f6295acce19a",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0603-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 4",
+    "UUID": "04bc1a50-1a25-4a92-9080-b95fabf514a4",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0604-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 5",
+    "UUID": "c7e60a04-6e9e-4107-b9cd-1a646ddc34a2",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0605-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 6",
+    "UUID": "c079d927-ab21-4e26-b15c-abbaf5ed7b5a",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0606-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 7",
+    "UUID": "1b78e53d-aae5-47fa-b4f4-626d7cf9bb38",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0607-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 8",
+    "UUID": "67b48f16-dc80-4bc7-83a5-86460af3c19f",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0608-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Conjuration Spell Level 9",
+    "UUID": "af03e64c-c3d0-4151-b7e8-9f3aaea5bd80",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0609-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_ConjurationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 1",
+    "UUID": "79b9e743-a551-4798-970c-60615e503b1d",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Divination)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0301-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 2",
+    "UUID": "0e0e8fe5-337e-4b6d-9656-ee09f4e95658",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0302-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 3",
+    "UUID": "8ee72b2d-d2c0-43c3-a3e5-8e5db4628b19",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0303-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 4",
+    "UUID": "46c16308-ec32-40e4-a150-a2b24aaa6755",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0304-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 5",
+    "UUID": "5fc5eb5c-0fa9-4e1c-867a-758af621aa0d",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0305-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 6",
+    "UUID": "a8aaf912-9f7d-4c53-8bda-398866d8a194",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0306-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 7",
+    "UUID": "7d2846c4-dc1f-411e-b086-7673efd2479a",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0307-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 8",
+    "UUID": "7ba539d6-6944-4e7b-8afe-665dd2600325",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0308-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Divination Spell Level 9",
+    "UUID": "41e00d9a-ee81-4a25-be0a-0e2f49e92923",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0309-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_DivinationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 1",
+    "UUID": "0e988b6b-43d1-4821-84e7-89703320a2c3",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Enchantment)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0701-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 2",
+    "UUID": "33e5bc43-c2a9-4473-8ca6-4210ff5506f9",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0702-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 3",
+    "UUID": "c3751d51-3158-4503-8c59-ebd0b0103936",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0703-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 4",
+    "UUID": "fc219072-778c-46ef-a02a-7a1f0876bb21",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0704-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 5",
+    "UUID": "11f14cc2-fb75-4d40-b381-f4ba8a9a3763",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0705-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 6",
+    "UUID": "edb28052-f162-4a40-a122-0920bbff8663",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0706-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 7",
+    "UUID": "7a175980-d2d5-4737-a903-058c6e518955",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0707-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 8",
+    "UUID": "da5add00-9da3-4b30-9962-bd1b8130512a",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0708-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Enchantment Spell Level 9",
+    "UUID": "529fb0bd-6219-4746-b3d8-bc257dec1c19",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0709-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EnchantmentSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 1",
+    "UUID": "8c55b8f1-e340-4c35-9171-f677e80e9dc8",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Evocation)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0401-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 2",
+    "UUID": "4d2c81e0-ae58-438b-9778-d1217d11e085",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0402-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 3",
+    "UUID": "bb3681cb-e0f1-4dd5-b1a7-ee15f61395d8",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0403-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 4",
+    "UUID": "57ac9d65-9f2c-4cbd-96a1-32dd7d07c5f4",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0404-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 5",
+    "UUID": "deb061d4-f798-4d42-8896-17cf5b59e971",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0405-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 6",
+    "UUID": "917ec099-7211-44eb-8f39-02a97d292607",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0406-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 7",
+    "UUID": "bc557da8-a4da-4472-ae18-7b7205603860",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0407-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 8",
+    "UUID": "6704ff0f-6754-42f5-9880-340957c26da6",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0408-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Evocation Spell Level 9",
+    "UUID": "3467417f-8b36-460e-8fb2-79d6a434eaa5",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0409-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_EvocationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 1",
+    "UUID": "2fd8466a-422d-4b10-8c13-50a01d29ec0a",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Illusion)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0501-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 2",
+    "UUID": "4ecd1912-2215-43f1-a328-ffce7768ceea",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0502-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 3",
+    "UUID": "72831b5b-2042-4e91-be4a-703018e1d7fa",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0503-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 4",
+    "UUID": "1a778e03-f95c-4962-8290-2eec12e7e5d2",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0504-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 5",
+    "UUID": "641e8f0f-30e9-4e35-9c70-268c662ec483",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0505-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 6",
+    "UUID": "06f7e5d6-6b16-42c3-99d4-843e84794712",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0506-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 7",
+    "UUID": "3246cd1a-bd63-4ed6-9b4e-1d818d19e56d",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0507-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 8",
+    "UUID": "32d6a935-d61e-448b-a6e8-e1e24d065552",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0508-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Illusion Spell Level 9",
+    "UUID": "e3e74a0d-082c-4e85-a4de-e53c5f031584",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0509-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_IllusionSavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 1",
+    "UUID": "c8ddfbcf-4867-4188-8b76-78a732f6186b",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Necromancy)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0801-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 2",
+    "UUID": "a552baf9-d1c0-4c67-ab01-962c54ca825e",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0802-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 3",
+    "UUID": "07771ec1-a4e9-4197-ac83-442c82972252",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0803-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 4",
+    "UUID": "2c2f169b-d23d-4a9d-a75e-18ec0587e56d",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0804-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 5",
+    "UUID": "5b643bb9-ade1-439c-adbf-fa407f413c37",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0805-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 6",
+    "UUID": "67f77420-1eea-47a6-87eb-b738eae99aa6",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0806-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 7",
+    "UUID": "a6cfbad1-1e58-464b-a042-cf76801c2b4d",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0807-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 8",
+    "UUID": "2a5eec97-3bf2-4078-8459-7fb22f6c94d2",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0808-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Necromancy Spell Level 9",
+    "UUID": "c5409157-4d1c-4021-84f9-e5c1cc2052b4",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0809-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_NecromancySavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 1",
+    "UUID": "de2a9945-7c62-444b-a61d-a8e8fe09fefd",
+    "Strings": [
+      {
+        "Action": "Remove",
+        "Type": "Boosts",
+        "Strings": ["Savant(Transmutation)"]
+      }
+    ],
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0901-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 2",
+    "UUID": "e09afe3e-ed6e-4bbd-b2a6-157501f14f64",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0902-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 3",
+    "UUID": "bff8ab45-108c-43e4-8ee1-75843b6f6653",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0903-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 4",
+    "UUID": "8643b32e-1e85-4e06-8a19-4bfce4988311",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0904-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 5",
+    "UUID": "f7445184-3721-411c-8e27-b5448b034e55",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0905-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 6",
+    "UUID": "36de2141-de2c-4917-a8b6-404695da2b91",
+    "Selectors": [ {
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0906-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 7",
+    "UUID": "2c468fd8-d9e6-47ff-b5aa-61607793fa0e",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0907-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 8",
+    "UUID": "614d2827-a4d8-4264-8413-6440f40f342f",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0908-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  },
+  { "Comment": "Transmutation Spell Level 9",
+    "UUID": "e46d00f2-bdf8-4a34-898c-ab71d72e7a67",
+    "Selectors": [ {
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Action": "Insert",
+      "Function": "SelectSpells",
+      "Params": {
+        "Guid": "c1cfc0d3-1dad-1157-0909-c01300000002",
+        "Amount": "1",
+        "SelectorId":  "CL_OneDnD_TransmutationSavant"
+      }
+    } ]
+  } ] 
+}
