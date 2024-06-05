@@ -1,7 +1,20 @@
 [font=Courier New][color=#ffff00][center][url=https://www.nexusmods.com/baldursgate3/mods/7294?tab=description][img]https://staticdelivery.nexusmods.com/mods/3474/images/7294/7294-1709239808-677890373.png[/img][/url][/center][line]
 
 
+[b][size=6]Title[/size][/b][line]
+[size=5]Feature[/size][spoiler]
+[url="Art Source"][img]Image-Link[/img][/url]
+[quote][quote][size=4][i]Design Notes[/i][/size][i]
 
+[b]UA#:[/b]
+Design Note Quote.[/i][/quote]
+
+[size=4]LEVEL #: FEATURE[/size]
+
+Lorem Ipsum[/quote]
+[u][size=4]Notes[/size][/u]
+[list][*]Random Notes about implementaion or compatibility. 
+[/list][/spoiler][line]
 
 [line][size=5][b][url=https://www.nexusmods.com/baldursgate3/mods/1333]BG3 Community Library[/url] / [url=https://www.nexusmods.com/baldursgate3/mods/1933]Compatibility Framework[/url][/b][/size]
 
@@ -19,35 +32,36 @@ This mod works with [url=https://github.com/LaughingLeader/BG3ModManager]Baldur'
 [*]Move the mod to above the CompatibilityFramework.
 [*]Hit "Save Load Order to File."
 [/list][/spoiler]
-[size=4][b]Recommended Mod Management Tools[/b][/size][list]
-[*][url=https://github.com/LaughingLeader/BG3ModManager]Laughing Leader's Mod Manager[/url]
-[/list]
-[b][size=4]Recommended Mod Creation Resources[/size][/b][list]
+[size=4][b]Recommended Mod Management Tools[/b][/size][spoiler][list]
+[*][url=https://github.com/LaughingLeader/BG3ModManager]Laughing Leader's Mod Manager[/url][/list][/spoiler]
+[b][size=4]Recommended Mod Creation Resources[/size][/b][spoiler][list]
 [*][url=https://wiki.bg3.community/]Baldur's Gate 3 Modding Community Wiki[/url]
 [*][url=https://discord.gg/bg3mods]Baldur's Gate 3 Modding Community Discord[/url]
 [*][url=https://www.nexusmods.com/baldursgate3/mods/6574]BG3 Mod Helper - A Visual Studio Code Extension[/url]
 [*][url=https://github.com/ShinyHobo/BG3-Modders-Multitool/releases]BG3 Modders Multitool[/url]
 [*][url=https://github.com/Norbyte/lslib/releases]lslib: Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files[/url]
-[*][url=https://bg3.norbyte.dev/]BG3 Search Engine | Stats Validator | LSX Validator[/url]
-[/list]
+[*][url=https://bg3.norbyte.dev/]BG3 Search Engine | Stats Validator | LSX Validator[/url][/list][/spoiler]
 [size=4][b]Acknowledgements[/b][/size][list]
 [*]Larian Software, for working on Baldur's Gate 3 and bringing 5th Edition to PC.
 [*][url=https://github.com/ShinyHobo]ShinyHobo[/url] for their work easing the process of creating .pak files.
+[*][url=https://github.com/Norbyte]Norbyte[/url] for the hard work with [url=https://github.com/Norbyte/bg3se]Script Extender[/url] & [url=https://github.com/Norbyte/lslib]lslib[/url].
 [*]Alana for the creation of the Mod Manager Compatibility Images.
-[*][url=https://www.nexusmods.com/baldursgate3/users/244952]NellsRelo[/url] for leading the BG3 Community Library Team.
-[*]Norbyte for the commits.
-[*]The [url=https://downbytheriver.fun/]Down By The River[/url] Community for keeping me sane.
-[*]The Baldur's Gate 3 Modding Community for the Gith Posting.
+[*][url=https://www.nexusmods.com/baldursgate3/users/244952]NellsRelo[/url] for leading the BG3 Community Library Team.[spoiler][center][url=https://github.com/BG3-Community-Library-Team][img]https://staticdelivery.nexusmods.com/mods/3474/images/1333/1333-1692738344-1439338822.png[/img][/url][/center][/spoiler]
+[*]The [url=https://downbytheriver.fun/]Down By The River[/url] Community for keeping me sane.[spoiler][center][url=https://discord.gg/QPDSCFfeGD][img]https://i.ibb.co/vPJDPP2/button-hr-yellow.png[/img][/url][/center][/spoiler]
+[*]The [url=https://discord.gg/bg3mods]Baldur's Gate 3 Modding Community Discord[/url] for the Gith Posting.
 [*]The OneDnD Modding team for all your awesome work and for joining me on this journey.
-[/list][line][center][url=https://discord.gg/QPDSCFfeGD] [img]https://i.ibb.co/vPJDPP2/button-hr-yellow.png[/img][/url][/center]
+[/list]
 [line][b][size=6]OneDnD Mods[/size][/b]
-[line][b][size=5][u]Mods By The BG3 Community Library Team[/u][/size][/b]
+[spoiler][line][b][size=5][u]Mods By The BG3 Community Library Team[/u][/size][/b]
 [spoiler][b][size=5]Classes[/size][/b]
 
 [b][size=4]Barbarian[/size][/b]
 
 [size=3][url=https://www.nexusmods.com/baldursgate3/mods/8359]Instinctive Pounce[/url][/size]
 [size=1]As a part of the bonus action you take to enter your rage, you can move up to half your speed. You can jump once this turn without consuming an additional bonus action.[/size]
+
+[size=3][url=https://www.nexusmods.com/baldursgate3/mods/10007]Relentless Rage[/url][/size]
+[size=1]Relentless Rage now restores HP equal to twice your Barbarian level, and can trigger multiple times between rests.[/size]
 
 [size=3][url=https://www.nexusmods.com/baldursgate3/mods/6197]Short Rest Rage Recovery[/url][/size]
 [size=1]Barbarians regain one expended Rage on a Short Rest.[/size]
@@ -178,4 +192,4 @@ You launch a mote of light at one creature or object within range. Make a ranged
 [size=1]Brings the healing spell buffs from UA Playtest 8 to BG3, making Cure Wounds worth casting (and more.)[/size]
 
 [/spoiler]
-[line][/color][/font]
+[line][/spoiler][/color][/font]
