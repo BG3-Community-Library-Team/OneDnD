@@ -1,0 +1,42 @@
+{
+  "FileVersion": 1,
+  "Progressions": [ 
+    { "Comment": "Druid Level 2",
+      "UUID": "95322dde-349a-4101-964f-9aa46abd890b",
+      "Strings": [ {
+        "Action": "Insert",
+        "Type": "PassivesAdded",
+        "Strings": [ "CL_Passive_OneDnD_ShortRestWildShapeRecovery" ]
+      } ]
+    },
+    { "Comment": "Druid Level 5",
+      "UUID": "95868b34-a3c7-4748-92b8-f44f72242bf4",
+      "Selectors": [ {
+        "Action": "Insert",
+        "Function": "AddSpells",
+        "Params": { 
+          "Guid": "c1cfc0d3-1dad-1157-0105-c00500000003",
+          "PrepareType": "AlwaysPrepared"
+        }
+      } ]
+    },
+    { "Comment": "Druid Level 6",
+      "UUID": "0485e0eb-e537-4adb-a06e-5cf677388f85",
+      "Strings": [ {
+        "Action": "Insert",
+        "Type": "Boosts",
+        "Strings": [ "ActionResource(WildShape,1,0)" ]
+      } ]
+    },
+    { "Comment": "Druid Level 17, Requires Expansion",
+      "UUID": "a719bf26-4c7d-4265-8dc9-51cf3dd75030",
+      "Strings": [ {
+        "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+        "Action": "Insert",
+        "Type": "Boosts",
+        "Strings": [ "ActionResource(WildShape,1,0)" ]
+      } ]
+    }
+    
+  ]
+}
