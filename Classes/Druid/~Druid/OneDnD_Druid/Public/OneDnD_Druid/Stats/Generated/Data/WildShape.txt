@@ -1,0 +1,82 @@
+new entry "Shout_WildShape"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_WildShape"
+data "UseCosts" "BonusActionPoint:1;WildShape:1"
+
+// Wildshape Shapeshift rules adjustments.
+// Requires more testing and the compatibility framework Spells module needs a fix to properly remove/replace fields.
+//
+//
+// new entry "WILDSHAPE_BADGER_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_BADGER_PLAYER"
+// data "Boosts" "DarkvisionRangeMin(12);ActiveCharacterLight(233033a1-b43a-4ad9-976a-8a062b345e21);UnlockSpell(Shout_WildShape_Dismiss);IF(HasPassive('WildShape_Combat',context.Source)):UnlockSpell(Target_CureWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf)"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_BEAR_POLAR_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_BEAR_POLAR_PLAYER"
+// data "Boosts" "UnlockSpell(Shout_WildShape_Dismiss);IF(HasPassive('WildShape_Combat',context.Source)):UnlockSpell(Target_CureWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf)"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_CAT_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_CAT_PLAYER"
+// data "Boosts" "DarkvisionRangeMin(12);ActiveCharacterLight(233033a1-b43a-4ad9-976a-8a062b345e21);UnlockSpell(Shout_WildShape_Dismiss);IF(HasPassive('WildShape_Combat',context.Source)):UnlockSpell(Target_CureWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf);FallDamageMultiplier(0.5)"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_DEEP_ROTHE_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_DEEP_ROTHE_PLAYER"
+// data "Boosts" "DarkvisionRangeMin(24);ActiveCharacterLight(e278f6a0-26d7-49be-b11a-9b84bc313c3c);UnlockSpell(Shout_WildShape_Dismiss);IF(HasPassive('WildShape_Combat',context.Source)):UnlockSpell(Target_CureWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf)"
+// 
+// 
+// new entry "WILDSHAPE_RAVEN_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_RAVEN_PLAYER"
+// data "Boosts" "UnlockSpell(Shout_WildShape_Dismiss);ActionResource(Movement,3,0);IF(HasPassive('WildShape_Combat',context.Source)):UnlockSpell(Target_CureWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf);Attribute(Floating);IgnoreFallDamage()"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_SPIDER_GIANT_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_SPIDER_GIANT_PLAYER"
+// data "Boosts" "DarkvisionRangeMin(24);ActiveCharacterLight(e278f6a0-26d7-49be-b11a-9b84bc313c3c);StatusImmunity(WEB);StatusImmunity(DIFFICULT_TERRAIN_WEB);UnlockSpell(Shout_WildShape_Dismiss);IF(HasPassive('WildShape_Combat',context.Source)):UnlockSpell(Target_CureWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf);FallDamageMultiplier(0.5)"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_WOLF_DIRE_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_WOLF_DIRE_PLAYER"
+// data "Boosts" "UnlockSpell(Shout_WildShape_Dismiss);ActionResource(Movement,3,0);IF(HasPassive('WildShape_Combat',context.Source)):UnlockSpell(Target_CureWounds,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf)"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_SABERTOOTH_TIGER_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_SABERTOOTH_TIGER_PLAYER"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_PANTHER_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_PANTHER_PLAYER"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_DILOPHOSAURUS_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_DILOPHOSAURUS_PLAYER"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
+// 
+// new entry "WILDSHAPE_OWLBEAR_PLAYER"
+// type "StatusData"
+// data "StatusType" "POLYMORPHED"
+// using "WILDSHAPE_OWLBEAR_PLAYER"
+// data "Rules" "c1cfc0d3-1dad-5512-0102-c00500000002"
