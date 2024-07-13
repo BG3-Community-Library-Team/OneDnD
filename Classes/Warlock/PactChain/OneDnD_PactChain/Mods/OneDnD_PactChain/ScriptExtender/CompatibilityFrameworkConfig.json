@@ -1,0 +1,13 @@
+{
+  "FileVersion": 1,
+  "Spells": [
+    {
+      "ID": "PactOfTheChain",
+      "Action": "Insert",
+      "Boosts": [
+        "UnlockSpell(CL_Target_Chain_Skeleton)",
+        "UnlockSpell(CL_Target_Chain_FlyingGhoul)"
+      ]
+    }
+  ]
+}
