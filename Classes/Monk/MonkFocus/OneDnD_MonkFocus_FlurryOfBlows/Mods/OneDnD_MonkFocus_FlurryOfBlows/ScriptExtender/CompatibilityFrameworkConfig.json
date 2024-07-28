@@ -1,0 +1,49 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Monk",
+      "UUIDs": ["c091d27e-009b-4841-8bde-5e63e5ca8f4e","297e0cb5-9743-4ae8-b053-b3850f0fa134"],
+      "Strings": [
+        { "Comment": "Removal of Old Flurry of Blows.",
+          "Action": "Remove",
+          "Type": "PassivesAdded",
+          "Strings": ["FlurryOfBlowsUnlock"]
+        },
+        { "Comment": "Removal of resource points.",
+          "Action": "Remove",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(KiPoint,2,0)"]
+        }
+      ]
+    },
+    {
+      "Comment": "Monk 2",
+      "UUID": "c17915f1-df2b-4cce-876f-68faf153f373",
+      "Selectors": [
+        { "Comment": "Add Flurry of Blows",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": { "Guid": "c1cfc0d3-1dad-1157-0001-c00700000003" }
+        }
+      ],
+      "Strings": [
+        { "Comment": "Removal of resource points.",
+          "Action": "Remove",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(KiPoint,1,0)"]
+        },
+        { "Comment": "Addition of resource points.",
+          "Action": "Insert",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(KiPoint,2,0)"]
+        },
+        { "Comment": "Addition of Explainer Passive.",
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_MonkFocus"]
+        }
+      ]
+    }
+  ]
+}

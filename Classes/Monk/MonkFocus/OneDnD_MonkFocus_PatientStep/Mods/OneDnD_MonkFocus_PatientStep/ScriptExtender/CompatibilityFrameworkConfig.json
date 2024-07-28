@@ -1,0 +1,33 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Monk 2",
+      "UUID": "c17915f1-df2b-4cce-876f-68faf153f373",
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "AddSpells",
+          "UUID": "2715246d-3375-4766-9a3e-5961efd56748"
+        },
+        { "Comment": "Add Patient Defence",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": { "Guid": "c1cfc0d3-1dad-1157-0002-c00700000003" }
+        },
+        { "Comment": "Add Step of the Wind",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": { "Guid": "c1cfc0d3-1dad-1157-0003-c00700000003" }
+        }
+      ],
+      "Strings": [
+        { "Comment": "Addition of Explainer Passive.",
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CL_Passive_OneDnD_MonkFocus"]
+        }
+      ]
+    }
+  ]
+}
