@@ -61,11 +61,11 @@
     { "Comment": "Bard 7",
       "UUID": "9aa0f1f1-8074-4fe7-919e-804dc0030406",
       "Selectors": [
-        { "Comment": "Countercharm moved from L6 to L7.",
+        { "Comment": "New Countercharm.",
           "Action": "Insert",
           "Function": "AddSpells",
           "Params": {
-            "Guid": "d84fc8ab-293e-437f-9825-e3e313f78060"
+            "Guid": "c1cfc0d3-1dad-1157-0107-c00300000004"
           }
         }
       ]    
