@@ -1,0 +1,24 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    { "Comment": "Bard 5",
+      "UUID": "3ca383a7-d545-4e01-8d00-00c965d3e604",
+      "Selectors": [
+        { "Comment": "Font Of Inspiration.",
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0105-c00300000003"
+          }
+        }
+      ],
+      "Strings": [
+        { "Comment": "Workaround for scaling issue.",
+          "Action": "Insert",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(CL_FontOfInspiration,99,0)"]
+        }
+      ]
+    }
+  ]
+}

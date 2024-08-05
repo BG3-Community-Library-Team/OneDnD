@@ -1,0 +1,86 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    { "Comment": "Bard 10",
+      "UUID": "b898b2bd-7cd3-480c-877c-4ccd391f2b2c",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor - Base Spells",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "bd71fffb-e4d2-4233-9a31-13d43fba36e3"
+        },
+        { "Comment": "Magical Secrets Refactor - Magic Secrets.",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "858d4322-9e9f-4aa4-aada-9c68835dc6fe"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0105-c00300000002",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        },
+        { "Comment": "Magical Secrets Refactor - Cantrips.",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "61f79a30-2cac-4a7a-b5fe-50c89d307dd6"
+        },
+        { "Comment": "Magical Secrets Refactor - Cantrips.",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0100-c00300000002",
+            "Amount": "1",
+            "SwapAmount": "0",
+            "SelectorId": "BardCantrip",
+            "PrepareType": "AlwaysPrepared"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 11",
+      "UUID": "4f9b2f00-fd70-487c-9038-83412eb5abc0",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "586a8796-34f4-41f5-a3ef-95738561d55d"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0106-c00300000002",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 12",
+      "UUID": "36301759-1445-4cc4-a3c2-f186b8da0309",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "586a8796-34f4-41f5-a3ef-95738561d55d"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "c1cfc0d3-1dad-1157-0106-c00300000002",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    }
+  ]
+}

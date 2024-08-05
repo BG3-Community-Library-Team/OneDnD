@@ -91,15 +91,15 @@
           "Function": "SelectSkillsExpertise",
           "UUID": "f974ebd6-3725-4b90-bb5c-2b647d41615d"
         },
-        { "Comment": "Magical Secrets Refactor - Base Spells",
-          "Action": "Remove",
-          "Function": "SelectSpells",
-          "UUID": "bd71fffb-e4d2-4233-9a31-13d43fba36e3"
-        },
         { "Comment": "Magical Secrets Refactor - Magic Secrets.",
           "Action": "Remove",
           "Function": "SelectSpells",
           "UUID": "858d4322-9e9f-4aa4-aada-9c68835dc6fe"
+        },
+        { "Comment": "Magical Secrets Refactor - Base Spells",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "bd71fffb-e4d2-4233-9a31-13d43fba36e3"
         },
         { "Comment": "Magical Secrets Refactor - Spell List.",
           "Action": "Insert",
@@ -141,7 +141,7 @@
           "Action": "Insert",
           "Function": "SelectSpells",
           "Params": {
-            "Guid": "c1cfc0d3-1dad-1157-0106-c00300000002",
+            "Guid": "586a8796-34f4-41f5-a3ef-95738561d55d",
             "Amount": "1",
             "SwapAmount": "1",
             "SelectorId": "BardMagicalSecrets"
@@ -161,12 +161,354 @@
           "Action": "Insert",
           "Function": "SelectSpells",
           "Params": {
-            "Guid": "c1cfc0d3-1dad-1157-0106-c00300000002",
+            "Guid": "586a8796-34f4-41f5-a3ef-95738561d55d",
+            "Amount": "0",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 13",
+      "UUID": "e220e80d-37bf-4b4b-b38a-4b4672304793",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "f923e058-b1d9-4b02-98ef-9daaa82a71b6"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
             "Amount": "1",
             "SwapAmount": "1",
             "SelectorId": "BardMagicalSecrets"
           }
         }
+      ]
+    },
+    { "Comment": "Bard 14",
+      "UUID": "374edd49-5b71-49e2-93cc-72df7fe1d7de",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "95f80109-32b7-43f8-a99a-7ee2286a993a"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "95f80109-32b7-43f8-a99a-7ee2286a993a",
+            "Amount": "0",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 15",
+      "UUID": "453bd5fd-8cec-4ea7-9aef-bfaf07dcc116",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "073c09e5-ccb9-4153-a210-001225a30cbb"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "073c09e5-ccb9-4153-a210-001225a30cbb",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 16",
+      "UUID": "37b6d82e-17ef-457f-8e0a-01453aec7104",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "073c09e5-ccb9-4153-a210-001225a30cbb"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "073c09e5-ccb9-4153-a210-001225a30cbb",
+            "Amount": "0",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 17",
+      "UUID": "331e3ce3-6f02-47e4-927e-b9feb92f167f",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 18",
+      "UUID": "d52893d6-746e-44f8-a7c9-f6d8f4d0e17b",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+        },
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "cd83187f-c886-45c2-be81-34083981f240"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Strings": ["SuperiorInspiration"]
+        }
+      ]
+    },
+    { "Comment": "Bard 19",
+      "UUID": "2582b513-dec4-472c-aaa1-9febaa2385bf",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 20",
+      "UUID": "05e456e8-349b-4dd3-8dac-bd4e8f8ebb2d",
+      "Selectors": [
+        { "Comment": "Magical Secrets Refactor.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Remove",
+          "Function": "SelectSpells",
+          "UUID": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+        },
+        { "Comment": "Magical Secrets Refactor - Spell List.",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Action": "Insert",
+          "Function": "SelectSpells",
+          "Params": {
+            "Guid": "2bbd99d0-21b4-41cc-836e-e386a96fc8e6",
+            "Amount": "1",
+            "SwapAmount": "1",
+            "SelectorId": "BardMagicalSecrets"
+          }
+        }
+      ],
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "PassivesAdded",
+          "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+          "Strings": ["SuperiorInspiration"]
+        }
+      ]
+    }
+  ],
+  "Lists": [
+    { "Comment": "Bard Magical Secrets Slevel 5+",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0105-c00300000002",
+        "c1cfc0d3-1dad-1157-0106-c00300000002",
+        "c1cfc0d3-1dad-1157-0107-c00300000002",
+        "c1cfc0d3-1dad-1157-0108-c00300000002",
+        "c1cfc0d3-1dad-1157-0109-c00300000002",
+        "586a8796-34f4-41f5-a3ef-95738561d55d"
+      ],
+      "Type": "SpellList",
+      "modGuid": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Items": [
+        "Target_Cloudkill", "Zone_ConeOfCold", "Target_ConjureElemental_Container", "Target_Contagion", "Shout_DispelEvilAndGood", "Target_FlameStrike", "Target_InsectPlague", "Throw_Telekinesis", "Wall_WallOfStone", "Target_Banishment", "Target_Blight", "Target_ConjureElementals_Minor_Container", "Target_ConjureWoodlandBeings", "Target_DeathWard", "Target_DominateBeast", "Target_BlackTentacles", "Shout_FireShield", "Target_GraspingVine", "Target_IceStorm", "Target_GuardianOfFaith", "Target_PhantasmalKiller", "Target_ResilientSphere", "Target_Stoneskin", "Wall_WallOfFire", "Target_AnimateDead", "Shout_BeaconOfHope", "Shout_Blink", "Target_CallLightning", "Target_Counterspell", "Target_Daylight_Container", "Projectile_Fireball", "Target_Fly", "Target_GaseousForm", "Target_Haste", "Zone_LightningBolt", "Shout_HealingWord_Mass", "Target_ProtectionFromEnergy", "Target_RemoveCurse", "Teleportation_Revivify", "Target_SleetStorm", "Target_Slow", "Shout_SpiritGuardians", "Target_VampiricTouch", "Shout_Aid", "Target_ArcaneLock", "Target_Barkskin", "Shout_Blur", "Target_Darkness", "Target_Darkvision", "Target_EnlargeReduce", "Shout_FlameBlade", "Target_FlamingSphere", "Zone_GustOfWind", "Target_MagicWeapon", "Target_Moonbeam", "Projectile_AcidArrow", "Shout_MirrorImage", "Target_MistyStep", "Shout_PassWithoutTrace", "Shout_PrayerOfHealing", "Target_ProtectionFromPoison", "Projectile_RayOfEnfeeblement", "Projectile_ScorchingRay", "Target_SpikeGrowth", "Target_SpiritualWeapon", "Target_WardingBond", "Target_Web", "Target_Bless", "Zone_BurningHands", "Projectile_ChromaticOrb", "Zone_ColorSpray", "Target_Command_Container", "Target_CreateDestroyWater", "Target_Entangle", "Shout_ExpeditiousRetreat", "Shout_FalseLife", "Target_FindFamiliar", "Target_FogCloud", "Target_Goodberry", "Target_Grease", "Projectile_GuidingBolt", "Projectile_IceKnife", "Target_InflictWounds", "Target_Jump", "Target_MageArmor", "Projectile_MagicMissile", "Target_ProtectionFromEvilAndGood", "Projectile_RayOfSickness", "Target_Sanctuary", "Shout_Shield_Wizard", "Target_ShieldOfFaith", "Projectile_WitchBolt"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Slevel 6+",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0106-c00300000002",
+        "c1cfc0d3-1dad-1157-0107-c00300000002",
+        "c1cfc0d3-1dad-1157-0108-c00300000002",
+        "c1cfc0d3-1dad-1157-0109-c00300000002",
+        "586a8796-34f4-41f5-a3ef-95738561d55d"
+      ],
+      "Type": "SpellList",
+      "modGuid": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Items": [
+        "Teleportation_ArcaneGate", "Wall_BladeBarrier", "Projectile_ChainLightning", "Target_CircleOfDeath", "Target_CreateUndead", "Projectile_Disintegrate", "Target_FleshToStone", "Target_FreezingSphere", "Target_Harm", "Target_Heal", "Shout_HeroesFeast", "Target_GlobeOfInvulnerability", "Target_PlanarAlly_Container", "Zone_Sunbeam", "Wall_WallOfIce", "Wall_WallOfThorns", "Shout_WindWalk"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Cantrips (Starry Wisp - Barebones)",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0100-c00300000002"
+      ],
+      "Type": "SpellList",
+      "modGuid": "c1cfc0d3-1dad-0000-0000-5a01000000bb",
+      "Items": [
+        "CL_Projectile_OneDnD_StarryWisp"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Cantrips (Starry Wisp)",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0100-c00300000002"
+      ],
+      "Type": "SpellList",
+      "modGuid": "c1cfc0d3-1dad-0000-0000-5a0100000000",
+      "Items": [
+        "CL_Projectile_OneDnD_StarryWisp_SHV"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Cantrips (Starry Wisp - Glitter)",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0100-c00300000002"
+      ],
+      "Type": "SpellList",
+      "modGuid": "c1cfc0d3-1dad-0000-0000-5a0100000002",
+      "Items": [
+        "CL_Projectile_OneDnD_StarryWisp_Glitter"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Cantrips (5e Spells)",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0100-c00300000002"
+      ],
+      "Type": "SpellList",
+      "modGuid": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Items": [
+        "Target_Prestidigitation", "Shout_Thunderclap", "Target_SpareTheDying", "Target_TollTheDead", "Shout_WordOfRadiance", "Target_ControlFlames", "Target_CreateBonfire", "Shout_Druidcraft", "Target_Frostbite", "Target_Gust", "Target_Infestation", "Target_MagicStone", "Target_MoldEarth", "Target_PrimalSavagery", "Target_ShapeWater", "Shout_Thunderclap", "Target_BoomingBlade", "Target_ControlFlames", "Target_CreateBonfire", "Target_Frostbite", "Target_GreenFlameBlade", "Target_Gust", "Target_Infestation", "Target_LightningLure", "Target_MindSliver", "Target_MoldEarth", "Target_Prestidigitation", "Target_ShapeWater", "Shout_SwordBurst", "Shout_Thunderclap", "Target_TollTheDead"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Slevel 5+ (5e Spells)",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0105-c00300000002",
+        "c1cfc0d3-1dad-1157-0106-c00300000002",
+        "c1cfc0d3-1dad-1157-0107-c00300000002",
+        "c1cfc0d3-1dad-1157-0108-c00300000002",
+        "c1cfc0d3-1dad-1157-0109-c00300000002",
+        "586a8796-34f4-41f5-a3ef-95738561d55d"
+      ],
+      "Type": "SpellList",
+      "modGuid": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Items": [
+        "Target_RaiseDead", "Target_SkillEmpowerment", "Target_SynapticStatic", "Target_CharmMonster", "Projectile_RaulothimsPsychicLance", "Target_Antagonize", "Target_Catnap", "Target_EnemiesAbound", "Target_IntellectFortress", "Target_MotivationalSpeech", "Target_Nondetection", "Shout_BorrowedKnowledge", "Shout_KineticJaunt", "Target_NathairsMischief", "Shout_WardingWind", "Shout_DetectMagic", "Shout_EarthTremor", "Target_UnseenServant", "Target_PhantasmalKiller", "Shout_HealingWord_Mass", "Target_Slow", "Shout_Aid", "Target_EnlargeReduce", "Target_Knock", "Shout_MirrorImage", "Zone_ColorSpray", "Target_Command_Container", "Target_HolyWeapon", "Target_RaiseDead", "Zone_ConeOfCold", "Shout_CommuneWithNature", "Target_Maelstrom", "Target_SpeakWithDead", "Target_EnhanceAbility", "Target_FarStep", "Projectile_NegativeEnergyFlood", "Target_SkillEmpowerment", "Target_SteelWindStrike", "Target_SynapticStatic", "Target_ArcaneEye", "Target_CharmMonster", "Projectile_RaulothimsPsychicLance", "Target_StormSphere", "Target_SummonBeholderkin", "Target_SummonConstruct", "Target_SummonElemental", "Projectile_VitriolicSphere", "Target_Antagonize", "Shout_AshardalonsStride", "Target_Catnap", "Target_EnemiesAbound", "Target_EruptingEarth", "Target_FlameArrows", "Target_IntellectFortress", "Target_LifeTransference", "Target_MagicCircle", "Projectile_MinuteMeteors", "Target_Nondetection", "Shout_SpiritShroud", "Target_SummonFey", "Target_SummonShadowspawn", "Teleportation_ThunderStep", "Zone_AganazzarsScorcher", "Shout_AlterSelf", "Shout_BorrowedKnowledge", "Target_ContinualFlame", "Target_DragonsBreath", "Target_DustDevil", "Target_FlockOfFamiliars", "Shout_KineticJaunt", "Target_MaximiliansEarthenGrasp", "Target_TashasMindWhip", "Target_MindSpike", "Target_NathairsMischief", "Zone_RimesBindingIce", "Shout_ShadowBlade", "Target_SnillocsSnowballStorm", "Target_VortexWarp", "Shout_WardingWind", "Target_WitherAndBloom", "Shout_AbsorbElements", "Throw_Catapult", "Target_CauseFear", "Shout_DetectMagic", "Shout_EarthTremor", "Zone_FrostFingers", "Target_Snare", "Zone_TashasCausticBrew", "Target_UnseenServant"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Slevel 6+ (5e Spells)",
+      "Action": "Insert",
+      "UUIDs": [
+        "c1cfc0d3-1dad-1157-0106-c00300000002",
+        "c1cfc0d3-1dad-1157-0107-c00300000002",
+        "c1cfc0d3-1dad-1157-0108-c00300000002",
+        "c1cfc0d3-1dad-1157-0109-c00300000002",
+        "586a8796-34f4-41f5-a3ef-95738561d55d"
+      ],
+      "Type": "SpellList",
+      "modGuid": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Items": [
+        "Shout_HeroesFeast", 	"Target_TrueSeeing", "Target_FleshToStone", "Shout_TensersTransformation"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Slevel 7+ (Expansion)",
+      "Action": "Insert",
+      "UUIDs": [
+        "f923e058-b1d9-4b02-98ef-9daaa82a71b6",
+        "073c09e5-ccb9-4153-a210-001225a30cbb",
+        "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+      ],
+      "Type": "SpellList",
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Items": [
+        "Target_FingerOfDeath", "Teleportation_ArcaneGate", "Wall_BladeBarrier", "Projectile_ChainLightning", "Target_CircleOfDeath", "Target_CreateUndead", "Projectile_Disintegrate", "Target_FleshToStone", "Target_FreezingSphere", "Target_Harm", "Target_Heal", "Shout_HeroesFeast", "Target_GlobeOfInvulnerability", "Target_PlanarAlly_Container", "Zone_Sunbeam", "Wall_WallOfIce", "Wall_WallOfThorns", "Shout_WindWalk", "Target_Cloudkill", "Zone_ConeOfCold", "Target_ConjureElemental_Container", "Target_Contagion", "Shout_DispelEvilAndGood", "Target_FlameStrike", "Target_InsectPlague", "Throw_Telekinesis", "Wall_WallOfStone", "Target_Banishment", "Target_Blight", "Target_ConjureElementals_Minor_Container", "Target_ConjureWoodlandBeings", "Target_DeathWard", "Target_DominateBeast", "Target_BlackTentacles", "Shout_FireShield", "Target_GraspingVine", "Target_IceStorm", "Target_GuardianOfFaith", "Target_PhantasmalKiller", "Target_ResilientSphere", "Target_Stoneskin", "Wall_WallOfFire", "Target_AnimateDead", "Shout_BeaconOfHope", "Shout_Blink", "Target_CallLightning", "Target_Counterspell", "Target_Daylight_Container", "Projectile_Fireball", "Target_Fly", "Target_GaseousForm", "Target_Haste", "Zone_LightningBolt", "Shout_HealingWord_Mass", "Target_ProtectionFromEnergy", "Target_RemoveCurse", "Teleportation_Revivify", "Target_SleetStorm", "Target_Slow", "Shout_SpiritGuardians", "Target_VampiricTouch", "Shout_Aid", "Target_ArcaneLock", "Target_Barkskin", "Shout_Blur", "Target_Darkness", "Target_Darkvision", "Target_EnlargeReduce", "Shout_FlameBlade", "Target_FlamingSphere", "Zone_GustOfWind", "Target_MagicWeapon", "Target_Moonbeam", "Projectile_AcidArrow", "Shout_MirrorImage", "Target_MistyStep", "Shout_PassWithoutTrace", "Shout_PrayerOfHealing", "Target_ProtectionFromPoison", "Projectile_RayOfEnfeeblement", "Projectile_ScorchingRay", "Target_SpikeGrowth", "Target_SpiritualWeapon", "Target_WardingBond", "Target_Web", "Target_Bless", "Zone_BurningHands", "Projectile_ChromaticOrb", "Zone_ColorSpray", "Target_Command_Container", "Target_CreateDestroyWater", "Target_Entangle", "Shout_ExpeditiousRetreat", "Shout_FalseLife", "Target_FindFamiliar", "Target_FogCloud", "Target_Goodberry", "Target_Grease", "Projectile_GuidingBolt", "Projectile_IceKnife", "Target_InflictWounds", "Target_Jump", "Target_MageArmor", "Projectile_MagicMissile", "Target_ProtectionFromEvilAndGood", "Projectile_RayOfSickness", "Target_Sanctuary", "Shout_Shield_Wizard", "Target_ShieldOfFaith", "Projectile_WitchBolt"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Slevel 8+ (Expansion)",
+      "Action": "Insert",
+      "UUIDs": [
+        "073c09e5-ccb9-4153-a210-001225a30cbb",
+        "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+      ],
+      "Type": "SpellList",
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Items": [
+        "Target_DominateMonster", "Target_Feeblemind", "Shout_HolyAura", "Target_MindBlank"
+      ]
+    },
+    { "Comment": "Bard Magical Secrets Slevel 9+ (Expansion)",
+      "Action": "Insert",
+      "UUIDs": [
+        "2bbd99d0-21b4-41cc-836e-e386a96fc8e6"
+      ],
+      "Type": "SpellList",
+      "modGuid": "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+      "Items": [
+        "Target_Foresight", "Target_PowerWordKill", "Target_PowerWordHeal"
       ]
     }
   ]

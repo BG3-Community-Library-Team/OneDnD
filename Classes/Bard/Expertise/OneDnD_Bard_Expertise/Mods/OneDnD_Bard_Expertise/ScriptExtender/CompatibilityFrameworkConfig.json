@@ -1,0 +1,51 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    { "Comment": "Bard 2",
+      "UUID": "7a2f66b5-7555-49f2-833b-f3d79affc7ca",
+      "Selectors": [
+        { "Comment": "Expertise moved from L3 to L2.",
+          "Action": "Insert",
+          "Function": "SelectSkillsExpertise",
+          "Params": {
+            "Guid": "f974ebd6-3725-4b90-bb5c-2b647d41615d",
+            "Amount": "2"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 3",
+      "UUID": "26f64038-6033-48d5-9da7-38e8c95ce712",
+      "Selectors": [
+        { "Comment": "Expertise moved from L3 to L2.",
+          "Action": "Remove",
+          "Function": "SelectSkillsExpertise",
+          "UUID": "f974ebd6-3725-4b90-bb5c-2b647d41615d"
+        }
+      ]
+    },
+    { "Comment": "Bard 9",
+      "UUID": "b1f811c8-4831-488a-bd1d-47e9883d2823",
+      "Selectors": [
+        { "Comment": "Expertise moved from L10 to L9.",
+          "Action": "Insert",
+          "Function": "SelectSkillsExpertise",
+          "Params": {
+            "Guid": "f974ebd6-3725-4b90-bb5c-2b647d41615d",
+            "Amount": "2"
+          }
+        }
+      ]
+    },
+    { "Comment": "Bard 10",
+      "UUID": "b898b2bd-7cd3-480c-877c-4ccd391f2b2c",
+      "Selectors": [
+        { "Comment": "Expertise moved from L10 to L9.",
+          "Action": "Remove",
+          "Function": "SelectSkillsExpertise",
+          "UUID": "f974ebd6-3725-4b90-bb5c-2b647d41615d"
+        }
+      ]
+    }
+  ]
+}
