@@ -1,0 +1,26 @@
+{
+  "FileVersion": 1,
+  "Lists": [
+    {
+      "Comment": "Ranger List",
+      "Action": "Insert",
+      "UUID": "a0bdb113-1cce-45ac-fb94-d472f2c3e907",
+      "Type": "PassiveList",
+      "Items": [ "FightingStyle_GreatWeaponFighting", "FightingStyle_Protection" ]
+    },
+    {
+      "Comment": "Paladin List",
+      "Action": "Insert",
+      "UUID": "f8ebba38-932a-4c64-55ae-f23d2f3efa60",
+      "Type": "PassiveList",
+      "Items": [ "FightingStyle_Archery","FightingStyle_TwoWeaponFighting" ]
+    },
+    {
+      "Comment": "Sword Bard List",
+      "Action": "Insert",
+      "UUID": "11f3b209-eb13-42d2-ec9f-df468fc619e6",
+      "Type": "PassiveList",
+      "Items": [ "FightingStyle_Archery", "FightingStyle_Defense", "FightingStyle_Protection", "FightingStyle_TwoWeaponFighting" ]
+    }
+  ]
+}
